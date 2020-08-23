@@ -1,4 +1,4 @@
-package jp.igapyon.tmx2resx.Tmx2Resx;
+package jp.igapyon.tmx2resx;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
