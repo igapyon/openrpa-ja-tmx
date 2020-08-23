@@ -25,7 +25,6 @@ import java.io.StringReader;
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.transform.OutputKeys;
 import javax.xml.transform.Transformer;
 import javax.xml.transform.TransformerConfigurationException;
 import javax.xml.transform.TransformerException;
@@ -66,8 +65,7 @@ public class Tmx2Resx {
     public static void dom2xml(Element element, File fileOutput) throws IOException {
         try {
             final Transformer transformer = TransformerFactory.newInstance().newTransformer();
-            transformer.setOutputProperty(OutputKeys.INDENT, "yes");
-            transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "2");
+            // インデントなどは実施しない。
             final DOMSource source = new DOMSource(element);
             final OutputStream outStream = new BufferedOutputStream(new FileOutputStream(fileOutput));
             final StreamResult target = new StreamResult(outStream);
