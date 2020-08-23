@@ -29,6 +29,7 @@ public class Tmx2ResxOpenRPA {
             throw new IOException("openrpa folder not found: " + fileRoot.getAbsolutePath());
         }
 
+        // 本体
         {
             File fileTmx = new File("../tmx/OpenRPA-OpenRPA-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
@@ -39,6 +40,21 @@ public class Tmx2ResxOpenRPA {
             }
 
             File fileOutput = new File(fileRoot, "OpenRPA/Resources/strings.ja.resx");
+
+            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+        }
+
+        // AviRecorder
+        {
+            File fileTmx = new File("../tmx/OpenRPA-AviRecorder-en2ja.tmx");
+            final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
+
+            File fileInput = new File(fileRoot, "OpenRPA.AviRecorder/Resources/strings.resx");
+            if (!fileInput.exists()) {
+                throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
+            }
+
+            File fileOutput = new File(fileRoot, "OpenRPA.AviRecorder/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
