@@ -31,7 +31,7 @@ public class Tmx2ResxOpenRPA {
 
         // 本体
         {
-            File fileTmx = new File("../tmx/OpenRPA-OpenRPA-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.OpenRPA-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
             File fileInput = new File(fileRoot, "OpenRPA/Resources/strings.resx");
@@ -46,7 +46,7 @@ public class Tmx2ResxOpenRPA {
 
         // AviRecorder
         {
-            File fileTmx = new File("../tmx/OpenRPA-AviRecorder-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.AviRecorder-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
             File fileInput = new File(fileRoot, "OpenRPA.AviRecorder/Resources/strings.resx");
