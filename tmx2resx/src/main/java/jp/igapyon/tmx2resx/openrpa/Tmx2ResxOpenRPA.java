@@ -59,6 +59,21 @@ public class Tmx2ResxOpenRPA {
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
+        // Elis.Rossum
+        {
+            File fileTmx = new File("../tmx/OpenRPA.Elis.Rossum-en2ja.tmx");
+            final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
+
+            File fileInput = new File(fileRoot, "OpenRPA.Elis.Rossum/Resources/strings.resx");
+            if (!fileInput.exists()) {
+                throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
+            }
+
+            File fileOutput = new File(fileRoot, "OpenRPA.Elis.Rossum/Resources/strings.ja.resx");
+
+            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+        }
+
         System.err.println("end.");
     }
 }
