@@ -15,12 +15,9 @@
  */
 package jp.igapyon.tmx2resx;
 
-import java.io.BufferedOutputStream;
-import java.io.File;
-import java.io.FileOutputStream;
 import java.io.IOException;
-import java.io.OutputStream;
 import java.io.StringReader;
+import java.io.StringWriter;
 
 import javax.xml.parsers.DocumentBuilder;
 import javax.xml.parsers.DocumentBuilderFactory;
@@ -55,17 +52,19 @@ public class XmlSimpleUtil {
      * Convert document to xml.
      * 
      * @param element input root element.
-     * @param fileOutput output file.
+     * @return XML string.
      * @throws IOException IO Exception occurred.
      */
-    public static void dom2xml(Element element, File fileOutput) throws IOException {
+    public static String dom2xml(Element element) throws IOException {
         try {
             final Transformer transformer = TransformerFactory.newInstance().newTransformer();
             // インデントなどは実施しない。
             final DOMSource source = new DOMSource(element);
-            final OutputStream outStream = new BufferedOutputStream(new FileOutputStream(fileOutput));
-            final StreamResult target = new StreamResult(outStream);
+            final StringWriter writer = new StringWriter();
+            final StreamResult target = new StreamResult(writer);
             transformer.transform(source, target);
+            writer.flush();
+            return writer.toString();
         } catch (TransformerFactoryConfigurationError ex1) {
             throw new IOException(ex1);
         } catch (TransformerConfigurationException ex2) {

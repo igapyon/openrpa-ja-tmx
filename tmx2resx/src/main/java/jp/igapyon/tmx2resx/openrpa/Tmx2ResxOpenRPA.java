@@ -72,10 +72,14 @@ public class Tmx2ResxOpenRPA {
                 }
             }
         } catch (XPathExpressionException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            throw new IOException(e);
         }
 
-        XmlSimpleUtil.dom2xml(document.getDocumentElement(), new File(fileRoot, "OpenRPA/Resources/strings.ja.resx"));
+        String xml = XmlSimpleUtil.dom2xml(document.getDocumentElement());
+        xml = "\uFEFF" + xml;
+        xml=xml.replaceAll("\"/>", "\" />");
+        FileUtils.writeStringToFile(new File(fileRoot, "OpenRPA/Resources/strings.ja.resx"), xml, "utf-8");
+
+        System.err.println("end.");
     }
 }
