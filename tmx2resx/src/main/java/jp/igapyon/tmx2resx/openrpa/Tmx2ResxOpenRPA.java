@@ -17,6 +17,7 @@ package jp.igapyon.tmx2resx.openrpa;
 
 import java.io.File;
 import java.io.IOException;
+import java.util.Map;
 
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
@@ -28,10 +29,15 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
+import jp.igapyon.tmx2resx.SimpleTmxReader;
 import jp.igapyon.tmx2resx.Tmx2Resx;
 
 public class Tmx2ResxOpenRPA {
     public static void main(String[] args) throws IOException {
+        final Map<String, String> tmxMap = SimpleTmxReader.file2map(new File("../tmx/OpenRPA-OpenRPA-en2ja.tmx"),
+                "en-US", "ja");
+        //  System.err.println(tmxMap.get("Add variables"));
+
         File fileRoot = new File("../../openrpa/");
         if (!fileRoot.exists()) {
             throw new IOException("openrpa folder not found: " + fileRoot.getAbsolutePath());
@@ -44,7 +50,7 @@ public class Tmx2ResxOpenRPA {
         String resxString = FileUtils.readFileToString(file, "UTF-8");
         resxString = resxString.replace("\uFEFF", ""); // BOM
 
-        System.err.println(resxString);
+        //      System.err.println(resxString);
 
         Document document = Tmx2Resx.string2dom(resxString);
 
@@ -56,6 +62,11 @@ public class Tmx2ResxOpenRPA {
 
                 final Node nodeValue = (Node) xpath.evaluate("value", list.item(index), XPathConstants.NODE);
                 System.err.println(nodeValue.getTextContent());
+
+                String dest = tmxMap.get(nodeValue.getTextContent());
+                if (dest != null) {
+                    System.err.println(dest);
+                }
             }
         } catch (XPathExpressionException e) {
             // TODO Auto-generated catch block

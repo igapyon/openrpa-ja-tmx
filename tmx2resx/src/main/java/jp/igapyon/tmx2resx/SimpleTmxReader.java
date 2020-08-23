@@ -31,11 +31,6 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
 public class SimpleTmxReader {
-    public static void main(String[] args) throws IOException {
-        final Map<String, String> tmxMap = file2map(new File("../tmx/OpenRPA-OpenRPA-en2ja.tmx"), "en-US", "ja");
-        System.err.println(tmxMap.get("Add variables"));
-    }
-
     public static Map<String, String> file2map(final File tmx, final String langSrc, final String langDst)
             throws IOException {
         final Map<String, String> result = new LinkedHashMap<>();
@@ -57,10 +52,10 @@ public class SimpleTmxReader {
                 for (int indexTuv = 0; indexTuv < tuvList.getLength(); indexTuv++) {
                     Element eleTuv = (Element) tuvList.item(indexTuv);
                     String lang = eleTuv.getAttribute("lang");
-                    System.err.println(lang);
+                //    System.err.println(lang);
 
                     String segText = (String) xpath.evaluate("seg/text()", eleTuv, XPathConstants.STRING);
-                    System.err.println(segText);
+              //      System.err.println(segText);
 
                     if (langSrc.equals(lang)) {
                         stringSrc = segText;
