@@ -122,3 +122,12 @@ wait	待機
 warning	警告
 width	幅
 workflow	ワークフロー
+recording	レコーディング
+video	ビデオ
+start	開始
+screen	画面
+folder	フォルダ
+codec	コーデック
+enabled	有効
+keep	維持
+quality	品質
