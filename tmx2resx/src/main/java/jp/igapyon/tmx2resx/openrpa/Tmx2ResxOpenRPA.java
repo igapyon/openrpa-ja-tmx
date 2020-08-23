@@ -35,19 +35,23 @@ import jp.igapyon.tmx2resx.XmlSimpleUtil;
 
 public class Tmx2ResxOpenRPA {
     public static void main(String[] args) throws IOException {
-        final Map<String, String> tmxMap = TmxSimpleUtil.file2map(new File("../tmx/OpenRPA-OpenRPA-en2ja.tmx"), "en-US",
-                "ja");
 
         File fileRoot = new File("../../openrpa/");
         if (!fileRoot.exists()) {
             throw new IOException("openrpa folder not found: " + fileRoot.getAbsolutePath());
         }
-        File file = new File(fileRoot, "OpenRPA/Resources/strings.resx");
-        if (!file.exists()) {
-            throw new IOException("resx filenot found: " + file.getAbsolutePath());
+        File fileInput = new File(fileRoot, "OpenRPA/Resources/strings.resx");
+        if (!fileInput.exists()) {
+            throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
         }
 
-        String resxString = FileUtils.readFileToString(file, "UTF-8");
+        File fileOutput = new File(fileRoot, "OpenRPA/Resources/strings.ja.resx");
+
+        File fileTmx = new File("../tmx/OpenRPA-OpenRPA-en2ja.tmx");
+
+        final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
+
+        String resxString = FileUtils.readFileToString(fileInput, "UTF-8");
         resxString = resxString.replace("\uFEFF", ""); // BOM
 
         Document document = XmlSimpleUtil.string2dom(resxString);
@@ -77,8 +81,8 @@ public class Tmx2ResxOpenRPA {
 
         String xml = XmlSimpleUtil.dom2xml(document.getDocumentElement());
         xml = "\uFEFF" + xml;
-        xml=xml.replaceAll("\"/>", "\" />");
-        FileUtils.writeStringToFile(new File(fileRoot, "OpenRPA/Resources/strings.ja.resx"), xml, "utf-8");
+        xml = xml.replaceAll("\"/>\\n", "\" />\n");
+        FileUtils.writeStringToFile(fileOutput, xml, "utf-8");
 
         System.err.println("end.");
     }
