@@ -26,6 +26,7 @@ import javax.xml.xpath.XPathFactory;
 
 import org.apache.commons.io.FileUtils;
 import org.w3c.dom.Document;
+import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
@@ -58,19 +59,31 @@ public class Tmx2ResxOpenRPA {
         try {
             final NodeList list = (NodeList) xpath.evaluate("/root/data", document, XPathConstants.NODESET);
             for (int index = 0; index < list.getLength(); index++) {
-                System.err.println(list.item(index));
+               // System.err.println(list.item(index));
 
-                final Node nodeValue = (Node) xpath.evaluate("value", list.item(index), XPathConstants.NODE);
-                System.err.println(nodeValue.getTextContent());
+                final Element eleValue = (Element) xpath.evaluate("value", list.item(index), XPathConstants.NODE);
+             //   System.err.println(eleValue.getTextContent());
 
-                String dest = tmxMap.get(nodeValue.getTextContent());
+                String dest = tmxMap.get(eleValue.getTextContent());
                 if (dest != null) {
-                    System.err.println(dest);
+                //    System.err.println(dest);
+
+                    for (;;) {
+                        Node first = eleValue.getFirstChild();
+                        if (first == null) {
+                            break;
+                        }
+                        eleValue.removeChild(first);
+                    }
+
+                    eleValue.appendChild(document.createTextNode(dest));
                 }
             }
         } catch (XPathExpressionException e) {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
+
+        Tmx2Resx.dom2xml(document.getDocumentElement(), new File(fileRoot, "OpenRPA/Resources/strings.ja.resx"));
     }
 }
