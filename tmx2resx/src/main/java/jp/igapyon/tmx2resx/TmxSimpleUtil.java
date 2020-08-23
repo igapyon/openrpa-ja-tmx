@@ -30,7 +30,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
-public class SimpleTmxReader {
+public class TmxSimpleUtil {
     public static Map<String, String> file2map(final File tmx, final String langSrc, final String langDst)
             throws IOException {
         final Map<String, String> result = new LinkedHashMap<>();
@@ -39,7 +39,7 @@ public class SimpleTmxReader {
         tmxString = tmxString.replace("\uFEFF", ""); // BOM
         tmxString = tmxString.replace("<!DOCTYPE tmx SYSTEM \"tmx11.dtd\">", ""); // Drop DTD
 
-        Document document = Tmx2Resx.string2dom(tmxString);
+        Document document = XmlSimpleUtil.string2dom(tmxString);
 
         final XPath xpath = XPathFactory.newInstance().newXPath();
         try {
@@ -52,11 +52,8 @@ public class SimpleTmxReader {
                 for (int indexTuv = 0; indexTuv < tuvList.getLength(); indexTuv++) {
                     Element eleTuv = (Element) tuvList.item(indexTuv);
                     String lang = eleTuv.getAttribute("lang");
-                //    System.err.println(lang);
 
                     String segText = (String) xpath.evaluate("seg/text()", eleTuv, XPathConstants.STRING);
-              //      System.err.println(segText);
-
                     if (langSrc.equals(lang)) {
                         stringSrc = segText;
                     }
@@ -70,8 +67,7 @@ public class SimpleTmxReader {
                 }
             }
         } catch (XPathExpressionException e) {
-            // TODO Auto-generated catch block
-            e.printStackTrace();
+            throw new IOException(e);
         }
 
         return result;

@@ -38,11 +38,7 @@ import org.w3c.dom.Element;
 import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
-public class Tmx2Resx {
-    public static void main(String[] args) {
-        System.out.println("Hello World!");
-    }
-
+public class XmlSimpleUtil {
     public static Document string2dom(final String xml) throws IOException {
         try {
             final DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();

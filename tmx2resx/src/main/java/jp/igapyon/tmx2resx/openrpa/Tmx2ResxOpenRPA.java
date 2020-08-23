@@ -30,14 +30,13 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import jp.igapyon.tmx2resx.SimpleTmxReader;
-import jp.igapyon.tmx2resx.Tmx2Resx;
+import jp.igapyon.tmx2resx.TmxSimpleUtil;
+import jp.igapyon.tmx2resx.XmlSimpleUtil;
 
 public class Tmx2ResxOpenRPA {
     public static void main(String[] args) throws IOException {
-        final Map<String, String> tmxMap = SimpleTmxReader.file2map(new File("../tmx/OpenRPA-OpenRPA-en2ja.tmx"),
-                "en-US", "ja");
-        //  System.err.println(tmxMap.get("Add variables"));
+        final Map<String, String> tmxMap = TmxSimpleUtil.file2map(new File("../tmx/OpenRPA-OpenRPA-en2ja.tmx"), "en-US",
+                "ja");
 
         File fileRoot = new File("../../openrpa/");
         if (!fileRoot.exists()) {
@@ -51,23 +50,16 @@ public class Tmx2ResxOpenRPA {
         String resxString = FileUtils.readFileToString(file, "UTF-8");
         resxString = resxString.replace("\uFEFF", ""); // BOM
 
-        //      System.err.println(resxString);
-
-        Document document = Tmx2Resx.string2dom(resxString);
+        Document document = XmlSimpleUtil.string2dom(resxString);
 
         final XPath xpath = XPathFactory.newInstance().newXPath();
         try {
             final NodeList list = (NodeList) xpath.evaluate("/root/data", document, XPathConstants.NODESET);
             for (int index = 0; index < list.getLength(); index++) {
-               // System.err.println(list.item(index));
-
                 final Element eleValue = (Element) xpath.evaluate("value", list.item(index), XPathConstants.NODE);
-             //   System.err.println(eleValue.getTextContent());
 
                 String dest = tmxMap.get(eleValue.getTextContent());
                 if (dest != null) {
-                //    System.err.println(dest);
-
                     for (;;) {
                         Node first = eleValue.getFirstChild();
                         if (first == null) {
@@ -84,6 +76,6 @@ public class Tmx2ResxOpenRPA {
             e.printStackTrace();
         }
 
-        Tmx2Resx.dom2xml(document.getDocumentElement(), new File(fileRoot, "OpenRPA/Resources/strings.ja.resx"));
+        XmlSimpleUtil.dom2xml(document.getDocumentElement(), new File(fileRoot, "OpenRPA/Resources/strings.ja.resx"));
     }
 }
