@@ -131,3 +131,7 @@ codec	コーデック
 enabled	有効
 keep	維持
 quality	品質
+username	ユーザ名
+queue	キュー
+status	ステータス
+upload	アップロード
