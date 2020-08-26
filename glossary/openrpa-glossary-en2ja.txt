@@ -128,33 +128,25 @@ bottom up	ボトム・アップ
 bounds	制約	
 boxed	ボクシングされた	
 brace	中括弧	
-braces	中括弧	
 bracket	大括弧	
-brackets	大括弧	
-brackets	大括弧	
 branch	ブランチ	ソース・コード管理用語
-branches	ブランチ	ソース・コード管理用語
 breadcrumb	パンくずリスト	
 break	ブレーク	
 breakpoint	ブレークポイント	
 bridge	ブリッジ	
 browse	参照	
 browser	ブラウザ
-browser	ブラウザー	
-browser Library	ブラウザー・ライブラリー	
 browsing	参照	
 buffer	バッファ
-buffer	バッファー	
 bug	バグ	
 bug tracking	バグ追跡
 build	構築	
 build	ビルド	プログラミング言語用語
 build path	ビルド・パス	
-builder	ビルダー	
+builder	ビルダ	
 bundle	バンドル	
 business	ビジネス	
 button	ボタン
-button	ボタン	
 by default	デフォルトで
 bytecode	バイトコード
 bytes	バイト	
@@ -164,7 +156,6 @@ callback	コールバック
 camel	キャメル	
 camel case	キャメル・ケース	CamelCaseのように単語区切りを大文字にする記法のこと
 cancel	キャンセル
-cancel	キャンセル	
 capabilities	機能
 capability	機能
 capitalized	大/小文字混合	
@@ -173,23 +164,18 @@ carriage return	復帰
 case	大/小文字	
 case sensitive	大/小文字を区別
 cast	キャスト	
-casts	キャスト	
 catalog	カタログ	
-category	カテゴリー	
+category	カテゴリ	
 caused by	原因	名詞的に訳す場合
 certificate	証明書
 change	変更
-change	変更	
-changes	変更	
 channel	チャンネル	
 character	文字	
-characters	文字	
 charset	文字セット	
 cheat sheet	虎の巻
 check	検査	
 check	確認	
 check	チェック
-check	チェック	
 check configuration	チェック構成	
 check out	チェック・アウト	
 checker	チェッカー	
@@ -201,14 +187,12 @@ choose	選択
 circular	循環	
 circularity	循環性	
 class	クラス	
-classes	クラス	
 classic	クラシック
 classification	種別	
 classpath	クラスパス	
 clause	節	
-clauses	節	
 clean	クリーン	
-clean Up	クリーン・アップ	
+clean up	クリーン・アップ	
 cleanup	クリーンアップ
 clear	クリア
 click	クリック
