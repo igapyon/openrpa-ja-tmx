@@ -861,35 +861,27 @@ must not be null	null にできません
 mutable	変更可能	
 name	名	前の単語とつなげる場合。【例】function name=関数名
 name	名前
-name	名前	
 name	名称	【例】new name=新規名称
 name	名前をつける	動詞
 namespace	名前空間	
 naming convention	命名規約	
-naming conventions	命名規約	
 native	ネイティブ	
-nature	ネーチャー	Eclipse用語
+nature	ネーチャー	
 navigation	ナビゲーション	
-navigator	ナビゲーター	
+navigator	ナビゲータ	
 necessary	必要な	
 negative	負	
 nested	ネストされた	
 network	ネットワーク	
-new	新規
 new	新規	メニュー項目など簡潔な表現が必要な場合
 new name	新規名
 new name	新しい名前
 newline	改行
 node	ノード	
-nodes	ノード	
 non-abstract	非抽象	
-non-binary	非バイナリー	
+non-binary	非バイナリ	
 non-conflicting	非競合の
 non-conflicting	競合しない
-non-final	非 final	
-non-primitive	非プリミティブ	
-non-static	非 static	
-non-versioned	バージョン管理外	
 not available	使用不可	
 not available	使用できません	
 not exist	存在しません	
@@ -898,12 +890,10 @@ not valid	有効ではありません
 not visible	不可視	
 note	注意	
 notification	通知
-notifier	ノーティファイアー？
 now	今すぐ	
 number	数	
 numeric	数値
 object	オブジェクト	
-objects	オブジェクト	
 obstructed	遮断
 obtain	取得	
 occurred	発生しました	
