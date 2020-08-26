@@ -15,6 +15,7 @@ check	チェック
 click	クリック
 clipboard	クリップボード
 close	閉じる
+codec	コーデック
 comment	コメント
 complete	完了
 content	コンテンツ
@@ -28,11 +29,12 @@ detail	詳細
 detector	検知器
 disable	無効化
 displayname	表示名
-download	ダウンロード
 double-click	ダブルクリック
+download	ダウンロード
 duration	期間
 edit	編集
 element	要素
+enabled	有効
 enumerate	列挙
 error	エラー
 execution	実行
@@ -40,6 +42,7 @@ exit	終了
 export	エクスポート
 file	ファイル
 filename	ファイル名
+folder	フォルダ
 force	強制
 general	一般
 height	高さ
@@ -51,6 +54,7 @@ insert	挿入
 instances	インスタンス
 instead of	代わりに
 invoke	実行
+keep	維持
 key	キー
 keystroke	キーストローク
 language	言語
@@ -72,8 +76,11 @@ play	再生
 plugin	プラグイン
 project	プロジェクト
 properties	プロパティ
+quality	品質
+queue	キュー
 read	読込
 record	記録
+recording	レコーディング
 relative	相対
 reload	再読込
 remote	リモート
@@ -86,6 +93,7 @@ run	実行
 running	実行中
 runtime	ランタイム
 save	保存
+screen	画面
 search	検索
 select	選択
 selector	セレクタ
@@ -95,7 +103,9 @@ setting	設定
 show	表示
 signout	サインアウト
 snippet	スニペット
+start	開始
 state	状態
+status	ステータス
 stop	停止
 string	文字列
 swap	交換
@@ -111,27 +121,17 @@ trigger	トリガ
 type	タイプ
 uncomment	コメント解除
 update	更新
+upload	アップロード
 use	使用
 user	ユーザ
+username	ユーザ名
 value	値
 variable	変数	Basic
 version	バージョン
+video	ビデオ
 view	ビュー
 virtual	仮想
 wait	待機
 warning	警告
 width	幅
 workflow	ワークフロー
-recording	レコーディング
-video	ビデオ
-start	開始
-screen	画面
-folder	フォルダ
-codec	コーデック
-enabled	有効
-keep	維持
-quality	品質
-username	ユーザ名
-queue	キュー
-status	ステータス
-upload	アップロード
