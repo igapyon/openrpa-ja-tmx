@@ -293,18 +293,16 @@ corresponding	対応する	形容詞的に使用する場合
 corrupt	破壊	
 could not be read	を読み取れませんでした
 count	カウント	名詞
-counter	カウンター	
+counter	カウンタ	
 coupling	結合	
 covariant	共変	
 create	作成
 creation	作成	
 credential	証明書
-credentials	証明書
 criteria	基準
 cross	クロス	
 cross reference	相互参照
-cross references	相互参照
-curly Brace	中括弧	
+curly brace	中括弧	
 current	現行	
 current	現在の	
 currently	現在	
@@ -318,7 +316,6 @@ cyclomatic	循環的
 daemon	デーモン
 dangerous	危険な	
 data	データ
-data	データ	
 data source	データ・ソース	
 database	データベース	
 database table	データベース・テーブル
@@ -332,8 +329,7 @@ de-select	選択解除
 deactivate	非アクティブにする
 deadlock	デッドロック
 debug	デバッグ
-debug	デバッグ	
-debugger	デバッガー	
+debugger	デバッガ	
 debugging	デバッグ	
 decimal	進数
 decimal	固定精度小数
@@ -343,22 +339,19 @@ declaring type	宣言型
 decompress	解凍	
 decorate	装飾	
 decoration	装飾	
-decorator	デコレーター
+decorator	デコレータ
 default	デフォルト	
 define	定義	
 defined	定義	形容的に使用する場合。
 definite	明らかな	
 definition	定義
-definitions	定義	
 delay	遅延
 delayed	遅延	
 delegate	委譲
 delete	削除
-delete	削除
 deletion	削除	
 delta	デルタ	
 demonstrate	示す	
-dependencies	依存関係
 dependency	依存関係
 deploy	デプロイ
 deprecated	非推奨	限定用法の場合。
@@ -366,7 +359,6 @@ deprecated	使用すべきではありません	叙述用法の場合。
 derive	派生する
 derived	派生	
 descendant	下位	
-descendent	下位
 descendent	下層
 description	記述
 description	説明
@@ -375,19 +367,15 @@ deselect	選択解除
 design	デザイン	
 design session	デザイン・セッション	
 designer	デザイナ
-designer	デザイナー	
 desired	必要な	
 destination	宛先	
 detach	切り離す
-detach	切り離す	
 detail	詳細
-detail	詳細	
 detailed	詳細な	形容詞的に使用。
-details	詳細	
 detect	検出	
 detection	検出
 detector	検知器
-detector	ディテクター
+detector	ディテクタ
 determine	判別
 determine	決定
 determine	識別
@@ -395,7 +383,6 @@ developer	開発者
 development	開発	
 device	デバイス	
 dialog	ダイアログ	
-dialogs	ダイアログ	
 dictionary	辞書	
 difference	差異
 difference	相違
@@ -404,8 +391,8 @@ digest	ダイジェスト
 digit	数字	
 digit	桁数	
 directive	ディレクティブ
-director	ディレクター	
-directory	ディレクトリー	
+director	ディレクタ	
+directory	ディレクトリ	
 disable	無効	動詞
 disable	無効化
 discard	破棄
