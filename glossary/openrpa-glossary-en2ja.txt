@@ -448,40 +448,28 @@ end point	エンド・ポイント
 engine	エンジン	
 engineering	エンジニアリング	
 enlarge	拡大する	
-enlarge	拡大する	
 enritch	リッチ化
 ensure	確認	
 ensure	確認する	
 enter	入力	
 enterprise	エンタープライズ
-enterprise application	エンタープライズ・アプリケーション
-entities	実体	
-entities	エンティティー	
 entity	実体	
-entity	エンティティー	
-entries	エントリー	
-entry	エントリー	
+entity	エンティティ	
+entry	エントリ	
 enum	列挙型	
 enumerate	列挙
 enumerator	列挙型
 enumerator	列挙子
-enumerator	列挙子値
-enumerators	列挙型
-enumerators	列挙子
-enumerators	列挙子値
 envelope	エンベロープ
 environment	環境	
 environment variable	環境変数	
-environment variables	環境変数	
 equal	等しい
 equality	等価	
 equivalence	等価	
 error	エラー
-error	エラー	
 error occurred	エラーが発生しました
 establish	確立	動詞
 event	イベント	
-events	イベント	
 exactly	正確に	
 exactly	ちょうど	
 example	例
@@ -494,8 +482,7 @@ executable	実行可能
 executable	実行可能ファイル	
 execute	実行	
 execution	実行
-execution	実行	
-execution plan	実行プラン	
+execution plan	実行計画	
 executor	実行プログラム
 existing	既存
 exit	終了
@@ -507,16 +494,14 @@ explain	説明
 explicit	明示的
 explicitly	明示的に	
 exploration	探索	
-explorer	エクスプローラー	Eclipse用語
-export	エクスポート
+explorer	エクスプローラ	
 export	エクスポート
 export to	エクスポート先	名詞的に使われる場合
-exporter	エクスポーター
+exporter	エクスポータ
 expose	公開
 expression	式	プログラミング言語用語
-expressions	式	
 ext	拡張	
-extender	エクステンダー
+extender	エクステンダ
 extensibility 	拡張性	
 extensible	拡張可能	
 extension	拡張	
@@ -528,9 +513,8 @@ extra	追加の
 extract	抽出
 extracted type	抽出型	
 facet	ファセット	
-faceted project	ファセット・プロジェクト	
 facilities	機能	
-factory	ファクトリー	
+factory	ファクトリ	
 failed	～に失敗しました	「～が失敗しました」ではない。【例】State validation failed.=状態の検証に失敗しました。
 fall through	フォール・スルー	
 fan Out	展開する	
@@ -538,35 +522,28 @@ fatal	致命的
 feature	フィーチャー
 fetch	取り出し	
 field	フィールド	
-fields	フィールド	
 file	ファイル
-file	ファイル	
 file system	ファイル・システム	
 file type	ファイル・タイプ	
 filename	ファイル名
-filename	ファイル名	
 files	ファイル	
 fileset	ファイルセット
 fill in	入力	動詞句
-filter	フィルター	
-filter pool	フィルター・プール	
-filter string	フィルター文字列	
-filters	フィルター	
-filtration	フィルター
-finalizer	ファイナライザー	
+filter	フィルタ	
+filter string	フィルタ文字列	
+filtration	フィルタ
+finalizer	ファイナライザ	
 fix	修正	
 fix	フィックス	
 fixed	固定	
 flatfile	フラットファイル
 flexible	柔軟な
-flexible	フレキシブル	Eclipse用語
 floating point	浮動小数点
 flow	フロー	
 flush	フラッシュ	
 focus	フォーカス	
 foldable	折りたたみ可能な	
 folder	フォルダ
-folder	フォルダー	
 folding	フォールディング	
 following	次の
 font	フォント	
@@ -578,7 +555,7 @@ foreground	前景
 foreground color	前景色	
 foreign	外部	
 foreign key	外部キー	
-form	フォーム	いわゆる入力フォームなどの場合。
+form	フォーム	いわゆる入力フォームなど
 format	書式
 format	フォーマット
 fragment	フラグメント	
@@ -590,7 +567,6 @@ function	関数
 function call	関数呼び出し	
 functional	機能	
 functionality	機能	
-functions	関数	
 garbage	ガーベッジ	
 general	一般
 generate	生成
@@ -613,13 +589,11 @@ group	グループ化	動詞
 grouping	グループ化
 guard	ガード	
 handle	ハンドル	
-handler	ハンドラー
-handlers	ハンドラー	
+handler	ハンドラ
 handshake	ハンドシェーク	
 harmless	無害	
 has	ある	助動詞ではなく「もつ」という意味の動詞の場合、「ある」という訳が多い。
-header	ヘッダー	
-heap walking	ヒープ・ウォーキング	
+header	ヘッダ	
 height	高さ
 help	支援	動詞
 help	ヘルプ	
@@ -632,7 +606,7 @@ hide	非表示
 hierarchy	階層	
 highlight	強調
 highlight	強調表示	
-history	ヒストリー	
+history	ヒストリ	
 hold	保持
 holder	ホルダー	
 host	ホスト	
@@ -651,7 +625,6 @@ ignore	無視する
 illegal	不正な	
 image	画像	
 image	イメージ
-image	イメージ	
 immediate	即時	
 immediate	直接の	
 immediately	すぐ	
@@ -661,24 +634,20 @@ implementation	実装
 implementors	実装	
 implicit	暗黙の	
 import	インポート
-import	インポート	
 import from	インポート元	名詞的に使われる場合
-import section	インポート・セクション	
-importer	インポーター
+importer	インポータ
 imports	インポート	
 improvement	改善	
 in parallel	並行して	
 in progress	進行中	
 in the future	今後	
 in the future	将来	
-in-place	in-place	訳さない
 inaccessible	アクセス不能
 inactive	非アクティブ	
 inactivity	非アクティブ	
 include	内包	
 include	含む	
 include	インクルード	
-include Path	インクルード・パス	
 includepath	インクルードパス	
 incoming	受信	形容詞的に使用。
 incompatible	非互換の
@@ -690,7 +659,7 @@ incrementally	インクリメンタルに
 indentation	インデント	
 index	インデックス	
 indicate	示す	
-indicator	インジケーター
+indicator	インジケータ
 indirection	間接参照	プログラミング言語用語
 indirectly	間接的に	
 individual	個々の	
@@ -703,15 +672,13 @@ inherited type	継承型
 initial	初期
 initialization	初期化	
 initialize	初期化
-initializer	イニシャライザー
-initializers	イニシャライザー
+initializer	イニシャライザ
 inline	インライン	
 inline	インライン化	動詞
 inner	内部	
 inner	インナー
 input	入力	
 insert	挿入
-insert	挿入	
 inspect	検査	動詞
 instability	不安定性	
 install	インストール	
@@ -719,7 +686,6 @@ installable	インストール可能
 installation	インストール	
 installed	インストール済みの	
 instance	インスタンス	
-instances	インスタンス
 instantiate	インスタンス化	
 instantiation	インスタンス化
 instead	代わりに
@@ -732,7 +698,6 @@ intelligent	インテリジェント
 intend	意図する	
 interactive	対話式	
 interface	インターフェース
-interfaces	インターフェース	
 intermediate	中間	
 internal	内部	
 internally	内部的に	
@@ -747,7 +712,7 @@ is disabled	使用不可
 issue	問題	
 item	項目	
 iterate	繰り返す	
-iterator	イテレーター	
+iterator	イテレータ	
 itself	それ自身
 itself	それ自体	
 join	ジョイン	
@@ -756,19 +721,16 @@ keep	保持
 keepalive	キープアライブ	
 key	鍵	セキュリティ用語
 key	キー
-key	キー	
 key binding	キー・バインド
-key bindings	キー・バインド
-keystore	鍵ストア	長音なし
+keystore	鍵ストア	
 keystroke	キーストローク
 keyword	キーワード	
 known	既知の
 label	ラベル	
 language	言語
-language	言語	
 latest	最新
 launch	起動	
-launcher	ランチャー
+launcher	ランチャ
 layer	レイヤー	
 layout	レイアウト	
 leading	先頭
@@ -779,9 +741,7 @@ less than	未満
 letter	文字	
 level	レベル	
 lexicographic	辞書の	
-libraries	ライブラリー	
 library	ライブラリ	
-library	ライブラリー	
 lifecycle	ライフサイクル	
 like	のように
 limit	制限	
@@ -789,24 +749,19 @@ limit	限度
 limitation	制限	
 line	行
 line break	改行	
-line breaks	改行	
 line feed	改行	
 linebreaks	改行	
 link	リンク	
 linking	リンク	
 list	リスト	
 listed below	以下にリストされた
-listener	リスナー	
+listener	リスナ	
 listening	リスニング	
 listing	リスト
 literal	リテラル	
 load	ロード	
 loader	ローダー	
 local	ローカル
-local	ローカル
-local	ローカル	
-local history	ローカル・ヒストリー	
-local workspace	ローカル・ワークスペース	
 locale	ロケール	
 localhost	ローカルホスト	
 localization	ローカライゼーション	
@@ -814,15 +769,12 @@ localized	ローカライズされた
 locate	検索	動詞
 location	場所	ファイル内のどこかを示す場合が多い
 location	ロケーション	ファイル・システム上を示す場合が多い
-locations	ロケーション	
-locator	ロケーター	
-locator ロケーター	
+locator	ロケータ	
 lock	固定
 lock	ロック
 locking	ロック	名詞的に使用する場合
 log	ログ	
 logging	ロギング
-logging	ロギング	
 logical	論理	
 login	ログイン	
 lookahead	先読み
@@ -835,7 +787,7 @@ magic number	マジック・ナンバー
 malformed	誤った
 managed	管理	形容詞的に使用する場合。
 management	管理	
-manager	マネージャー	
+manager	マネージャ	
 manifest	マニフェスト	
 manipulation	操作	
 manually	手動で
@@ -844,12 +796,9 @@ mapper	マッパー
 mapping	マッピング
 mark	マーク	
 marker	マーカー	
-markers	マーカー	
 markup	マークアップ
 mask	マスク
-mask	マスク	
 match	一致
-matcher	matcher	訳さない？
 matches	一致	
 matching	一致する	形容詞的に使用する場合。
 matching	マッチング	動詞的に使用する場合。
@@ -861,22 +810,17 @@ may not be	あってはなりません
 mechanism	機構
 media	メディア	
 member	メンバー	
-member	メンバー	
 memory	メモリー	
 menu	メニュー	
 merge	マージ	
 message	メッセージ
-message	メッセージ	
 message box	メッセージ・ボックス	
-message listener interface	メッセージ・リスナー・インターフェース
 message-driven	メッセージ駆動型
 messages	メッセージ	
 meta	メタ	
 meta data	メタ・データ	
 meta-information	メタ情報	
 metadata	メタデータ
-metadata repository	メタデータ・リポジトリー
-metadate	メタデータ	
 method	メソッド	
 method call	メソッド呼び出し
 methods	メソッド	
@@ -900,7 +844,6 @@ modification	変更
 modifier	修飾子	
 modify	変更する
 module	モジュール	
-modules	モジュール	
 monitor	モニター	
 monospace	等幅	
 more specifically	より正確にいうと	
@@ -908,7 +851,6 @@ more than once	複数回
 more than one	複数の	
 mouse	マウス
 move	移動
-move	移動	
 ms	ミリ秒	
 multi-line	複数行	
 multiline	複数行
