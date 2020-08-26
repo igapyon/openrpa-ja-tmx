@@ -400,7 +400,7 @@ disconnect	切断
 discouraged	推奨されません	
 discover	発見
 disk	ディスク	
-dispatcher	ディスパッチャー	
+dispatcher	ディスパッチャ	
 display	表示	
 displayname	表示名
 distribution	ディストリビューション	
@@ -416,7 +416,7 @@ double quote	ダブル・クォート
 double-click	ダブルクリック
 download	ダウンロード
 drag and drop	ドラッグ・アンド・ドロップ	
-driver	ドライバー	
+driver	ドライバ	
 duplicate	重複
 duplicate	複製	
 duplicated	重複した	
@@ -426,11 +426,8 @@ e-mail	e-mail	訳さない
 e.g.	例	
 each	各	
 edit	編集
-edit	編集	
-editor	エディター	
-editors	エディター	
+editor	エディタ	
 element	要素
-element	要素	
 eligible	使用できる	
 embedded	埋め込み	
 embedded	組み込み	
