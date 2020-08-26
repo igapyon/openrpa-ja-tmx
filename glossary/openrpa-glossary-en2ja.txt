@@ -898,10 +898,8 @@ obstructed	遮断
 obtain	取得	
 occurred	発生しました	
 occurrence	出現箇所	
-occurrences	出現箇所	
 off	オフ	
 offline	オフライン	
-offset	オフセット
 offset	オフセット
 omit	省略
 on startup	始動時に	
@@ -914,7 +912,6 @@ operating system	オペレーティング・システム
 operation	操作	
 operation	演算	プログラミング言語用語
 operator	演算子
-operators	演算子	
 option	オプション	
 optional	オプションの
 optionally	オプションで	
@@ -931,7 +928,6 @@ out of sync	非同期	名詞的に訳す場合。
 out of sync	同期がとれていない	
 outline	アウトライン	
 output	出力
-output	出力	
 output stream	出力ストリーム
 overlay	オーバレイ
 overridden	オーバーライドされた	
@@ -941,37 +937,29 @@ own	所有する
 owner	所有者
 ownership	所有権	
 package	パッケージ
-package	パッケージ	
-package explorer	パッケージ・エクスプローラー	
-packages	パッケージ	
 packaging	パッケージング	
 pad	パディング	「埋めるもの」という意味で使用する場合。
 padding	パディング	
 page	ページ	
-pageFlow	ページフロー
+pageflow	ページフロー
 pane	ペイン	
 paradigm	パラダイム	
 paragraph	段落	
-parameter	パラメーター
-parameter	パラメーター	
-parameterized	パラメーター化	
+parameter	パラメータ	
+parameterized	パラメータ化	
 paren	小括弧	
 parent	親	
 parent type	親タイプ	
 parentheses	小括弧	
-parenthesis	小括弧	
 parse	構文解析	
-parser	パーサー
-parsers	パーサー
+parser	パーサ
 parsing	構文解析	
 participant	パーティシパント	Eclipse用語
-participants	パーティシパント	
 partition	パーティション	
 password	パスワード	
 patch	パッチ	
 path	パス	
 pattern	パターン	
-patterns	パターン	
 pending	保留中	
 per	別
 per	あたり
@@ -982,10 +970,8 @@ performance	パフォーマンス
 permanent	永久
 permanent	永続
 permission	権限
-permission	権限	
 permission	許可	
 permission	アクセス権	ファイル・システム用語
-permissions	アクセス権	
 persist	保持
 persist	維持
 persistence	永続化
@@ -993,7 +979,7 @@ persistent	永続
 persistent	永続化
 perspective	パースペクティブ	Eclipse用語
 pin	ピン留め	動詞
-placeholder	プレースホルダー	
+placeholder	プレースホルダ	
 placement	配置	
 plain text	プレーン・テキスト	
 plan	計画	
@@ -1004,13 +990,11 @@ platform-independent	プラットフォーム非依存
 play	再生
 please note	注意してください
 plug-in	プラグイン
-plug-ins	プラグイン	
 plugin	プラグイン
-plugin	プラグイン	
 point	指す	動詞
 point	ポイント	
 pointcut	ポイントカット
-pointer	ポインター	
+pointer	ポインタ	
 pointing to	～を指す
 policy	ポリシー
 pool	プール	
@@ -1029,7 +1013,6 @@ precision	精度
 precondition	前提条件	
 predefined	事前定義	
 preference	設定
-preferences	設定	
 preferred	優先	
 prefix	接頭部
 preload	プリロード	
@@ -1046,43 +1029,33 @@ private	個人用
 privilege	権限	
 problem	問題	
 problem occurred	問題が発生しました	
-procedural	プロシージャー	
-procedure	プロシージャー	
+procedural	プロシージャ	
+procedure	プロシージャ	
 proceed	続行
 process	プロセス	
 processing	処理中	
-processor	プロセッサー	
+processor	プロセッサ	
 profile	プロファイル
-profiles	プロファイル	
 program	プログラム	
-programs	プログラム	
 project	プロジェクト
-project	プロジェクト	
-project context	プロジェクト・コンテキスト	
-project nature	プロジェクト・ネーチャー	
-projects	プロジェクト	
 prompt	プロンプト	
 prompted	プロンプトを表示する
 prompted	プロンプトが表示される
 prompting	プロンプト	
 properties	プロパティ
-properties	プロパティー
-property	プロパティー
+property	プロパティ
 proposal	プロポーザル	
-proposals	プロポーザル	
 protect	保護
 protection	保護
 protocol	プロトコル
 provide	指定
 provide	提供
-provider	プロバイダー
-provider	プロバイダー	
+provider	プロバイダ
 provisioner	プロビジョナー	
 provisioning	プロビジョニング
-proxy	プロキシー	
+proxy	プロキシ	
 publish	公開	
-publisher	パブリッシャー
-publishers	パブリッシャー
+publisher	パブリッシャ
 pull up	プル・アップ	
 pulldown	プルダウン	
 pure	ピュア	
@@ -1091,16 +1064,13 @@ qualified	修飾
 qualifier	修飾子	
 qualify	修飾	
 quality	品質
-quality	品質	
 query	照会	
-query	クエリー	
+query	クエリ	
 queue	キュー
-queue	キュー	
 quick	クイック
 quick assist	クイック・アシスト	
 quick fix	クイック・フィックス	
 quickfix	クイックフィックス
-quickfixes	クイックフィックス	
 range	範囲	
 ratio	率	
 ratio	比率	
@@ -1111,7 +1081,7 @@ read-only	読み取り専用
 receive	受信	
 receive	受け取る	
 recommendation	推奨	
-reconciler	リコンサイラー	
+reconciler	リコンサイラ	
 reconnect	再接続	
 record	記録
 record	レコード	
@@ -1122,16 +1092,14 @@ redundant	冗長な
 refactoring	リファクタリング
 refer to	参照	
 reference	参照	
-references	参照	
 reflection	リフレクション	
 refresh	リフレッシュ	
 refreshed	リフレッシュされる	
 regexp	正規表現	
 region	領域	
-register	レジスター	
-registry	レジストリー
+register	レジスタ	
+registry	レジストリ
 regular expression	正規表現	
-regular expressions	正規表現	
 reintegrate	再統合	
 reject	拒否	
 relate	関連
@@ -1139,7 +1107,6 @@ related	関連	形容詞的に使用する場合。
 relational	リレーショナル	
 relationship	関係	
 relative	相対
-relative	相対	
 release	リリース	
 reliability	信頼性	
 reload	再読込
@@ -1147,9 +1114,7 @@ reload	再ロード
 relocation	リロケーション	
 remap	再マップ
 remote	リモート
-remote	リモート	
 remote file	リモート・ファイル	
-remote server	リモート・サーバー	
 removal	除去	
 remove	除去
 rename	名前変更
@@ -1161,16 +1126,13 @@ replace	置換
 report	報告	
 report	レポート	名詞
 reporting	レポート	
-repository	リポジトリー
-repository	リポジトリー	
-repository location	リポジトリー・ロケーション
+repository	リポジトリ
 request	要求	
 required	必要
 required	必須
 requirement	要件	
 reserved	予約済み	
 reserved word	予約語	
-reserved words	予約語	
 reset	リセット
 resize	サイズ変更	
 resolution	解決	
