@@ -63,7 +63,6 @@ archive	アーカイブ
 are you sure you want to	～しますか
 area	領域	
 argument	引数	
-arguments	引数	
 array	配列	
 array type	配列型	
 artifact	成果物
@@ -72,9 +71,8 @@ artifact type	成果物タイプ
 as well	同時に	as well asではなくas well単独で
 ascendant	上位	
 aspect	アスペクト
-assembly	アセンブリー	
+assembly	アセンブリ	
 assertion	アサーション	
-assigned	割り当てられた
 assigned	割り当てられた
 assignment	代入	プログラミング言語用語
 assignment	割り当て	
@@ -110,23 +108,16 @@ balloon	バルーン
 base	ベース	
 based on	基づく	
 baseline	ベースライン	
-bean	bean	訳さない
-beaninfo	Beaninfo	
-beans	bean	訳さない。単数にする。
 behavior	動作	
 behavior	振る舞い	
 biase	バイアス	
-binary	バイナリー	
+binary	バイナリ	
 bind	バインド	
 binding	バインディング	
 bit	ビット
-bits	ビット	
 blank	空白	
 block	ブロック
-block	ブロック	
 blocking	ブロッキング
-blocking	ブロッキング	
-blocks	ブロック	
 blueprint	ブループリント
 body	本文	
 bookmark	ブックマーク	
