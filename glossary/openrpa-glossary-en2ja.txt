@@ -1172,11 +1172,9 @@ runner	ランナー
 running	実行中
 runtime	ランタイム
 runtime environment	ランタイム環境
-runtime environments	ランタイム環境
 same	同じ	
 sample	サンプル	
 save	保存
-save	保管
 scalar	スカラー	
 scale	スケール	
 schedule	スケジュール	
@@ -1190,65 +1188,52 @@ scripts	スクリプト
 scroll	スクロール	
 scrolling	スクロール	
 search	検索
-search	検索	
 search result	検索結果
-search results	検索結果
 searched	条件付き	【例】searched CASE expression=条件付き CASE 式
 sec	秒	
-secondary	セカンダリー	
-secure	セキュア	長音なし
-secure Sockets Layer	セキュア・ソケット・レイヤー	
+secondary	セカンダリ	
+secure	セキュア	
 secured	保護された	
-security	セキュリティー
+security	セキュリティ
 see	表示
 see	参照	ログなど内容の確認を示唆する場合
 see log for details	詳細はログを参照してください	定型表現
 segment	セグメント	
 select	選択
-select	選択	
 selectable	選択可能	
 selected	選択した	限定用法の場合。【例】selected item=選択したアイテム
 selected	選択された	叙述用法の場合。【例】item is selected=アイテムが選択されました。
 selection	選択	
 selector	セレクタ
-selector	セレクター	
 semantic	セマンティック	
-semantics	セマンティクス	
 semicolon	セミコロン	
 send	送信
-send	送信	
 separate	別の	
 separated list	区切りリスト	【例】comma separeted list=コンマ区切りリスト
-separator	セパレーター	
+separator	セパレータ	
 sequence	シーケンス	
 serial	シリアル	
 serializable	シリアライズ可能
-serializable	シリアライズ可能
-server	サーバー	
+server	サーバ	
 service	サービス	
-services	サービス	
 servlet	サーブレット
 session	セッション	
-sessions	セッション	
 set	設定	動詞
 set	セット	名詞
 setting	設定
-setting	設定	
 setup	セットアップ
 severity	重大度	
 sharable	共用可能	
 share	共用	
 shared	共用
 shell	シェル	
-shell	シェル	
 shift	シフト	
 shortcut	ショートカット	
 show	表示
-show	表示	
 sibling	兄弟	
 signal	シグナル	
 signature	署名
-signature	シグニチャー
+signature	シグニチャ
 signing	署名
 signout	サインアウト
 similar	類似の
@@ -1266,7 +1251,6 @@ size	サイズ
 skip	スキップ	
 snapshot	スナップショット
 snippet	スニペット
-snippet	スニペット	
 socket	ソケット	
 software	ソフトウェア	
 solution	解
@@ -1282,7 +1266,6 @@ specific	特定の
 specification	仕様
 specification	指定
 specifier	指定子
-specifiers	指定子
 specify	指定	
 spell	スペル	
 spelling	スペル	
@@ -1297,7 +1280,6 @@ standard in	標準入力
 standard out	標準出力	
 star	*	アスタリスク文字を表す場合
 start	開始
-start	開始	
 start	始動	Eclipse、サーバーなど
 start	始まる	
 starting up	始動
@@ -1306,45 +1288,36 @@ startup	始動
 startup	開始	
 startup	スタートアップ	
 state	状態
-state	状態	
 stateless	ステートレス	
 statement	ステートメント	
-statements	ステートメント	
 status	状況
 status	ステータス
-status	ステータス 
 stderr	標準エラー
 stdout	標準出力
 step through	ステップ・スルー
 stereotype	ステレオタイプ
-stereotypes	ステレオタイプ
 stop	停止
-stop	停止	
 storage	記憶装置	【例】persistent storage=永続記憶装置
 storage	ストレージ
-store	保管
+store	保存
 store	ストア	名詞
-stored procedure	ストアード・プロシージャー	
+stored procedure	ストアード・プロシージャ	
 stream	ストリーム	
 strict	厳密な	
 strictly	厳密に	
 strike-through	取り消し線	
-string	文字列
 string	文字列	プログラミング言語用語
 string	ストリング	
 strongly recommended	強くお勧め	
 structure	構造	
 structured	構造化	
 stub	スタブ	
-stubs	スタブ	
 style	スタイル	
 stylesheet	スタイルシート	
-stylesheets	スタイルシート	
 sub	サブ	
 subclass	サブクラス	
-subclasses	サブクラス	
-subfolder	サブフォルダー	
-subquery	サブクエリー	
+subfolder	サブフォルダ	
+subquery	サブクエリ	
 subscript	下付き	
 subsequent	後続の	
 subset	サブセット	
@@ -1357,7 +1330,6 @@ subtype	サブタイプ
 successful	成功	
 successfully	正常に
 suffix	接尾部
-suffixes	接尾部
 suite	スイート	
 summaries	要約
 summary	要約
@@ -1383,11 +1355,7 @@ synthetic	合成
 system	システム	
 tab	タブ	
 table	テーブル
-table	テーブル	
 tag	タグ	
-tag	タグ	ソース・コード管理用語
-tags	タグ	
-target	ターゲット
 target	ターゲット
 target file	ターゲット・ファイル	
 task	タスク	
@@ -1403,7 +1371,6 @@ terminate	終了
 test	テスト	
 test case	テスト・ケース	
 text	テキスト
-text	テキスト	
 text box	テキスト・ボックス	
 therefore	したがって	文頭で使用される場合。
 this	この	
@@ -1417,21 +1384,16 @@ time	時間
 time limit	制限時間
 time out	タイム・アウト	
 timeout	タイムアウト
-timeout	タイムアウト	
 tip	ヒント
 title	タイトル
-title	タイトル	
 to view	で表示
 toggle	切り替え
 token	トークン
 tool	ツール
-tool	ツール	
-tool support	ツール・サポート	
 toolbar	ツールバー	
 toolbox	ツールボックス
 tooling	ツール	
 toolkit	ツールキット	
-tools	ツール	
 tooltip	ツールチップ	
 top down	トップ・ダウン
 top level	トップ・レベル	
@@ -1447,11 +1409,10 @@ transfer	転送
 transient	一時的	
 transition	遷移
 translate	変換
-translator	トランスレーター
+translator	トランスレータ
 transport	トランスポート
 tree	ツリー	
 trigger	トリガ
-trigger	トリガー	
 truncate	切り捨てる	
 trunk	トランク	ソース・コード管理用語
 try again	再試行	
@@ -1460,21 +1421,16 @@ turn on	オンにする
 type	型	プログラミング言語用語
 type	入力	動詞
 type	タイプ
-type	タイプ	
 type hierarchy	型階層	
-type parameter	型パラメーター
-type parameters	型パラメーター	
+type parameter	型パラメータ
 type safety	型の安全性	
-types	型	
-types	タイプ	
 typically	通常	
-udpater	アップデーター	
+udpater	アップデータ	
 unavailable	使用不可	
 unavailable	使用できません	
 unchecked	未検査	【例】unchecked exception=未検査例外
 unclassified	分類外	
 uncomment	コメント解除
-uncomment	コメント解除	
 undefined	未定義
 underlined	下線付き	
 underlying	基底	
@@ -1492,7 +1448,6 @@ unique	固有の
 unique identifier	固有 ID	
 uniquely	一意的に
 unit	単位	
-units	単位	
 universal	汎用
 unknown	不明な	
 unlimited	無制限	
@@ -1509,7 +1464,6 @@ unspecified	指定されていない	叙述用法の場合。【例】name unspe
 unused	未使用の	
 unversioned	バージョン管理外
 update	更新
-update	更新	
 update site	更新サイト
 upgrade	アップグレード	
 upload	アップロード
@@ -1519,53 +1473,41 @@ usage	使用
 usage	使用率	【例】CPU usage=CPU使用率
 usage	使用例	【例】usage example=使用例
 use	使用
-use	使用	
 usecase	ユースケース	
 user	ユーザ
-user	ユーザー
-user action	ユーザー・アクション
-user interaction	ユーザー対話	
-user-defined	ユーザー定義	形容詞
+user interaction	ユーザ対話	
+user-defined	ユーザ定義	形容詞
 username	ユーザ名
-utility	ユーティリティー
+utility	ユーティリティ
 valid	有効な
 validate	検証	動詞
 validation	検証
-validator	バリデーター
+validator	バリデータ
 validity	妥当性
 validity	有効期間
 value	値
-value	値	
 var	変数	
 variable	変数	
-variable	変数	Basic
-variables	変数	
 various	さまざまな	
-vars	変数	
 vendor	ベンダー	
 verify	検証する	
-version	バージョン
 version	バージョン
 versioned	バージョン管理対象の	形容詞
 via	経由	
 video	ビデオ
-video	ビデオ	
 view	表示	
-view	ビュー
 view	ビュー	Eclipse用語。データベース用語。
 viewer	ビューアー
 violation	違反	
 virtual	仮想
-virtual	仮想	
 visibility	可視性	プログラム言語上のスコープ
 visibility	表示と非表示	画面の表示切替など
 visible	可視	プログラミング言語用語。
 visible	表示する	形容詞
 visual	ビジュアル
-visualiser	ビジュアライザー	
+visualiser	ビジュアライザ	
 vulnerability	脆弱性	
 wait	待機
-warning	警告
 warning	警告
 watcher	ウォッチャー	
 watchpoint	監視ポイント	
@@ -1576,14 +1518,12 @@ white space	空白文字
 whitespace	空白
 widget	ウィジェット
 width	幅
-width	幅	
 wild card	ワイルド・カード	
 wildcard	ワイルドカード	
 window	ウィンドウ	
 windowing system	ウィンドウ操作システム	
 with respect to	関して
 wizard	ウィザード
-wizards	ウィザード	
 word wrap	ワード・ラップ	
 work with	～で作業	
 workbench	ワークベンチ	Eclipse用語
