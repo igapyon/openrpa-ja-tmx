@@ -1,137 +1,1778 @@
+abort	中断	
+accept	受け入れる	
+action	アクション	
+action Set	アクション・セット	
+actual	実際の	
+actually	実際には	
+add	追加	
+address	アドレス	
+aggregate	集計	
+alert	アラート	
+ancestry	上位	
+annotation	注釈	
+applet	アプレット	
+appropriable	適用可能	
+area	領域	
+assembly	アセンブリー	
+assignment	代入	プログラミング言語用語
+assignment	割り当て	
+at least	少なくとも	
+attachment	添付	
+audio	音声	
+auto-detect	自動検出	
+automatically	自動的に	
+autowire	Autowire	Spring用語
+avoid	回避	
+base	ベース	
+bookmark	ブックマーク	
+border	境界	
+branches	ブランチ	ソース・コード管理用語
+bridge	ブリッジ	
+browse	参照	
+browser	ブラウザー	
+browser Library	ブラウザー・ライブラリー	
+browsing	参照	
+build path	ビルド・パス	
+builder	ビルダー	
+call	呼び出し	プログラミング言語用語
+cancel	キャンセル	
+catalog	カタログ	
+change	変更	
+check	確認	
+Check Out	チェック・アウト	
+checker	チェッカー	
+checkout	チェックアウト	
+child	子	
+choice	選択	
+choose	選択	
+circular	循環	
+class	クラス	
+classification	種別	
+clean	クリーン	
+clean Up	クリーン・アップ	
+clipboard	クリップボード	
+coding	コーディング	
+collecting	収集	名詞的に使用する場合。
+collecting	収集中	進行形
+collector	コレクター	
+column	列	
+comapre	比較	
+compiler	コンパイラー	
+complexity	複雑度	
+components	コンポーネント	
+composite	コンポジット	
+compress	圧縮	
+compression	圧縮	
+computation	計算	
+compute	計算	
+config	構成	
+configure	構成する	
+connect	接続	
+console	コンソール	
+contact	連絡先	名詞
+contexts	コンテキスト	
+convention	規約	
+convert	変換	
+core	コア	
+count	カウント	名詞
+coupling	結合	
+covariant	共変	
+cross	クロス	
+curly Brace	中括弧	
+custom	カスタム	
+dangerous	危険な	
+data	データ	
+data source	データ・ソース	
+datastore	データストア	
+datalink	データリンク	
+datatype	データタイプ	
+date and time	日時	
+de-select	選択解除	
+debug	デバッグ	
+debugging	デバッグ	
+declaration	宣言	
+decorate	装飾	
+define	定義	
+definite	明らかな	
+deletion	削除	
+derived	派生	
+destination	宛先	
+digit	桁数	
+director	ディレクター	
+disable	無効	動詞
+dispatcher	ディスパッチャー	
+display	表示	
+do you want to	しますか	
+do you want to continue?	続行しますか?	定型表現
+document	文書	
+domain	ドメイン	
+double quote	ダブル・クォート	
+driver	ドライバー	
+duplicate	複製	
+edit	編集	
+emit	出す	【例】emit warnings=警告を出す
+emit	発行する	
+empty	空の	
+empty line	空行	
+encapsulate	カプセル化	動詞
+encountered	検出しました	
+enter	入力	
+entity	実体	
+entity	エンティティー	
+equality	等価	
+event	イベント	
+exclude	除外	
+execute	実行	
+execution	実行	
+expanding	展開中	
+experimental	実験用	
+explain	説明	
+explorer	エクスプローラー	Eclipse用語
+ext	拡張	
+extensibility 	拡張性	
+extensible	拡張可能	
+extra	追加の	
+fall through	フォール・スルー	
+fan Out	展開する	
+fetch	取り出し	
+fields	フィールド	
+filename	ファイル名	
+filter string	フィルター文字列	
+finalizer	ファイナライザー	
+fix	フィックス	
+focus	フォーカス	
+folder	フォルダー	
+folding	フォールディング	
+foreground	前景	
+foreign	外部	
+fragment	フラグメント	
+framework	フレームワーク	
+frequency	間隔	
+functions	関数	
+generics	ジェネリクス	
+getting started	入門	
+global	グローバル	
+go to	ジャンプ	【例】Go To Line=指定行へジャンプ
+go up	上にジャンプ	
+graphic	グラフィック	
+group	グループ化	動詞
+handlers	ハンドラー	
+header	ヘッダー	
+help	ヘルプ	
+hide	非表示	
+highlight	強調表示	
+history	ヒストリー	
+how to	方法	名詞的に訳す場合
+icon	アイコン	
+illegal	不正な	
+image	画像	
+implementation	実装	
+implementors	実装	
+import	インポート	
+imports	インポート	
+include	内包	
+include Path	インクルード・パス	
+includepath	インクルードパス	
+incoming	受信	形容詞的に使用。
+incremental	インクリメンタル	
+incrementally	インクリメンタルに	
+indirection	間接参照	プログラミング言語用語
+info	情報	
+information	情報	
+inline	インライン化	動詞
+inner	内部	
+insert	挿入	
+inspect	検査	動詞
+installed	インストール済みの	
+interactive	対話式	
+internal	内部	
+introduce	導入	
+invoke	起動	
+iterator	イテレーター	
+join	ジョイン	
+keyword	キーワード	
+launch	起動	
+length	長さ	
+library	ライブラリ	
+link	リンク	
+list	リスト	
+listener	リスナー	
+loader	ローダー	
+local	ローカル
+local history	ローカル・ヒストリー	
+locale	ロケール	
+locate	検索	動詞
+locator ロケーター	
+log	ログ	
+logging	ロギング	
+machine	マシン	
+macro	マクロ	
+magic number	マジック・ナンバー	
+management	管理	
+manager	マネージャー	
+manipulation	操作	
+mask	マスク	
+media	メディア	
+member	メンバー	
+menu	メニュー	
+meta	メタ	
+meta data	メタ・データ	
+meta-information	メタ情報	
+metadate	メタデータ	
+method	メソッド	
+milestone	マイルストーン	
+miscellaneous	その他	
+mode	モード	
+model	モデル	
+modeler	モデラー	
+modifier	修飾子	
+monitor	モニター	
+more specifically	より正確にいうと	
+mutable	変更可能	
+name	名前をつける	動詞
+navigation	ナビゲーション	
+node	ノード	
+non-versioned	バージョン管理外	
+note	注意	
+objects	オブジェクト	
+only	のみ	
+operation	操作	
+order	順	前の単語とつなげる場合。【例】alphabetical order=アルファベット順
+order	順序	
+organize	編成	
+outline	アウトライン	
+output	出力	
+packaging	パッケージング	
+pad	パディング	「埋めるもの」という意味で使用する場合。
+pageFlow	ページフロー
+pane	ペイン	
+parameter	パラメーター	
+paren	小括弧	
+parentheses	小括弧	
+parsing	構文解析	
+participants	パーティシパント	
+partition	パーティション	
+path	パス	
+pending	保留中	
+permission	許可	
+permission	アクセス権	ファイル・システム用語
+pin	ピン留め	動詞
+placement	配置	
+plan	計画	
+platform	プラットフォーム	
+plugin	プラグイン	
+point	ポイント	
+pool	プール	
+port	ポート	
+port number	ポート番号	
+possible	可能性	【例】possible locking=ロックの可能性
+predefined	事前定義	
+preferred	優先	
+presentation	表示	
+presentation	プレゼンテーション	
+primitive	プリミティブ	
+problem	問題	
+procedural	プロシージャー	
+processing	処理中	
+processor	プロセッサー	
+profiles	プロファイル	
+prompting	プロンプト	
+provider	プロバイダー	
+provisioner	プロビジョナー	
+proxy	プロキシー	
+publish	公開	
+pull up	プル・アップ	
+pure	ピュア	
+qualify	修飾	
+query	クエリー	
+queue	キュー	
+quick fix	クイック・フィックス	
+reconciler	リコンサイラー	
+reconnect	再接続	
+redirect	リダイレクト	
+refresh	リフレッシュ	
+regexp	正規表現	
+region	領域	
+reintegrate	再統合	
+relocation	リロケーション	
+remote	リモート	
+removal	除去	
+rendering	レンダリング	
+repair	修復	
+replace	置換	
+repository	リポジトリー	
+restrict	制限	
+result	結果	
+result set	結果セット	
+retrieve	取得	
+return	戻り	形容詞的に使用する場合。【例】return type=戻り型
+return	リターン	
+revisions	改訂	
+rollover	ロールオーバー	
+row	行	
+rule	ルール	
+ruler	ルーラー	
+run	実行	
+runtime	ランタイム	
+scalar	スカラー	
+scope	スコープ	
+scrapbook	スクラップブック	
+script	スクリプト	
+search	検索	
+secure Sockets Layer	セキュア・ソケット・レイヤー	
+segment	セグメント	
+select	選択	
+send	送信	
+server	サーバー	
+service	サービス	
+setting	設定	
+shell	シェル	
+shift	シフト	
+shortcut	ショートカット	
+show	表示	
+simple	単純	
+simple	簡易	
+simple	シンプル	
+simplify	単純化する	
+size	サイズ	
+skip	スキップ	
+socket	ソケット	
+software	ソフトウェア	
+some	いくつか	
+sorter	ソーター	
+source	ソース	
+special	特殊	【例】special register=特殊レジスター
+splash	スプラッシュ	
+standard	標準	
+standard in	標準入力	
+standard out	標準出力	
+star	*	アスタリスク文字を表す場合
+start	開始	
+startup	スタートアップ	
+stateless	ステートレス	
+stop	停止	
+store	ストア	名詞
+stream	ストリーム	
+strict	厳密な	
+string	文字列	プログラミング言語用語
+string	ストリング	
+structured	構造化	
+style	スタイル	
+subsequent	後続の	
+subtype	サブタイプ	
+super class	スーパー・クラス	
+suppression	抑制	
+switch	切り替え	
+symbol	シンボル	
+synchronize	同期化	
+system	システム	
+table	テーブル	
+tag	タグ	ソース・コード管理用語
+task	タスク	
+task-focused	タスク・フォーカス	
+team	チーム	
+term	語句	
+test case	テスト・ケース	
+this will	これにより	Thisそのものが主語の場合
+time out	タイム・アウト	
+token	トークン
+tooling	ツール	
+toolkit	ツールキット	
+total	合計	
+touchpoint	タッチポイント	
+transaction	トランザクション	
+trigger	トリガー	
+trunk	トランク	ソース・コード管理用語
+turn on	オンにする	
+type	入力	動詞
+type hierarchy	型階層	
+type safety	型の安全性	
+types	タイプ	
+uncomment	コメント解除	
+undo	元に戻す	メニュー項目など。
+unexport	アンエクスポート	
+uninstall	アンインストール	
+unique identifier	固有 ID	
+unrecognized	認識されない	
+unselected	未選択	
+unused	未使用の	
+update	更新	
+use	使用	
+usecase	ユースケース	
+user interaction	ユーザー対話	
+validate	検証	動詞
+var	変数	
+variable	変数	
+vendor	ベンダー	
+video	ビデオ	
+violation	違反	
+virtual	仮想	
+visualiser	ビジュアライザー	
+watcher	ウォッチャー	
+whitespace	空白
+wildcard	ワイルドカード	
+windowing system	ウィンドウ操作システム	
+wizards	ウィザード	
+working copy	作業用コピー	
+would you like to	しますか	
+wrap	折り返し	名詞
+write	書き込み	
+about error	エラーに関する
+about errors	エラーに関する
+absolute	絶対	
+abstract	抽象	
+abstraction	抽象化	
+access	アクセス	
+accessor	アクセサー	
+accessor method	アクセサー・メソッド
 action	アクション
+actions	アクション	
+activate	有効にする	
+activate	アクティブにする
+active	アクティブ
 activity	アクティビティ
+adapter	アダプター	
 add	追加	Basic
+add-on	アドオン	
+additional	追加	
 addons	アドオン
+advice	アドバイス	
+advise	アドバイス	動詞
+affect	影響	
+algorithm	アルゴリズム	
+alias	別名
+alias	エイリアス
+all	すべての	
+allow	許可する
+along with	とともに
+alphanumeric	英数字	
+already	すでに
+already exists	すでに存在します	
+alternate	代替	
+alternate	別の	
+always	常に	
+ambiguous	あいまいな
+analysis	分析	
+analyze	分析
+analyze	解析	式など。
+and	および
+and	～し、	文節や文をつなぐ場合
+annotations	注釈	
+anonymous	匿名
+another	別の
+any character	任意の文字
+applicable	適用可能	
+applicable	適用できる	
 application	アプリケーション
+application	アプリケーション	
+apply	適用
+appropriate	適切な	
+architectur	アーキテクチャー
+architecture	アーキテクチャー
+archive	アーカイブ
+archives	アーカイブ	
+are you sure you want to	～しますか
+argument	引数	
+arguments	引数	
+array	配列	
+array type	配列型	
+artifact	成果物
+artifact	アーティファクト
+artifact type	成果物タイプ
+as well	同時に	as well asではなくas well単独で
+ascendant	上位	
+aspect	アスペクト
+assertion	アサーション	
+assigned	割り当てられた
+assigned	割り当てられた
+assist	アシスト	
+associated with	関連付けられている	
+association	関連付け	ファイル・タイプなどファイルに関連する場合。
+asynchronous	非同期
+at startup	始動時に	
+atomicity	アトミック性	
+attached	添付	
+attribute	属性	XML用語
+attribute	アトリビュート	XML用語を除く
+audit	監査	
+authentication	認証
+author	作成者	
+authority	権限
+authorization	許可
+auto-refresh	自動リフレッシュ
+automatic	自動	
+available	使用可能
+background	背景	
+background color	背景色	
+backup	バックアップ	
+bad	不正な	
 balloon	バルーン
+based on	基づく	
+baseline	ベースライン	
+bean	bean	訳さない
+beaninfo	Beaninfo	
+beans	bean	訳さない。単数にする。
+behavior	動作	
+behavior	振る舞い	
+biase	バイアス	
+binary	バイナリー	
+bind	バインド	
+binding	バインディング	
+bit	ビット
+bits	ビット	
+blank	空白	
 block	ブロック
+block	ブロック	
 blocking	ブロッキング
+blocking	ブロッキング	
+blocks	ブロック	
+blueprint	ブループリント
+body	本文	
+bottom	下部
+bottom	一番下
+bottom up	ボトム・アップ
+bounds	制約	
+boxed	ボクシングされた	
+brace	中括弧	
+braces	中括弧	
+bracket	大括弧	
+brackets	大括弧	
+brackets	大括弧	
+branch	ブランチ	ソース・コード管理用語
+breadcrumb	パンくずリスト	
+break	ブレーク	
+breakpoint	ブレークポイント	
 browser	ブラウザ
 buffer	バッファ
+buffer	バッファー	
+bug	バグ	
+bug tracking	バグ追跡
+build	構築	
+build	ビルド	プログラミング言語用語
+bundle	バンドル	
+business	ビジネス	
 button	ボタン
+button	ボタン	
+by default	デフォルトで
+bytecode	バイトコード
+bytes	バイト	
+cache	キャッシュ	
+callback	コールバック
+camel	キャメル	
+camel case	キャメル・ケース	CamelCaseのように単語区切りを大文字にする記法のこと
 cancel	キャンセル
+capabilities	機能
+capability	機能
+capitalized	大/小文字混合	
+caret	キャレット	
+carriage return	復帰	
+case	大/小文字	
+case sensitive	大/小文字を区別
+cast	キャスト	
+casts	キャスト	
+category	カテゴリー	
+caused by	原因	名詞的に訳す場合
+certificate	証明書
 change	変更
+changes	変更	
+channel	チャンネル	
+character	文字	
+characters	文字	
+charset	文字セット	
+cheat sheet	虎の巻
+check	検査	
 check	チェック
+check	チェック	
+check configuration	チェック構成	
+checking	チェック	名詞的に使用する場合。
+circularity	循環性	
+classes	クラス	
+classic	クラシック
+classpath	クラスパス	
+clause	節	
+clauses	節	
+cleanup	クリーンアップ
+clear	クリア
 click	クリック
+click	クリック	
+client	クライアント	
 clipboard	クリップボード
 close	閉じる
+code	コード	
 codec	コーデック
+collaboration	コラボレーション	
+collection	集まり	
+collection	コレクション	プログラミング言語用語
+collector	コレクター	
+collide	競合
+collide	衝突
+collision	衝突
+colored labels	色付きラベル	
+combination	組み合わせ	
+comma	コンマ
+command	コマンド	
+commands	コマンド	
+commas	コンマ
 comment	コメント
+comment	コメント	
+commenting	コメント	
+comments	コメント	
+commit	コミット	
+communication	通信
+communication	コミュニケーション
+comparator	コンパレーター	
+comparison	比較	
+compatibility	互換性
+compatibility mode	互換モード
+compatible	互換
+compatible	互換性
+compilation	コンパイル	
+compile	コンパイル	
 complete	完了
+complete	完了
+component	コンポーネント
+comprise	構成する	
+computer	コンピューター	
+concatenate	連結	動詞
+concurrent	並行	
+concurrent	同時	
+condition	条件	用例多い
+condition	状態	用例少ない
+conditional breakpoint	条件付きブレークポイント	
+conditionals	条件
+confidential information	機密情報	
+config file	構成ファイル
+configuration	構成	
+configuration file	構成ファイル
+confirm	確認
+confirmation	確認	
+conflict	競合
+connection	接続
+connections	接続	
+connectivity	接続	
+connector	コネクター
+consideration	考慮	
+constant	定数	
+constraint	制約	
+construct	構成する
+constructor	コンストラクター
+constructors	コンストラクター	
+contain	含む	
+container	コンテナー
 content	コンテンツ
+content	コンテンツ
+content type	コンテンツ・タイプ	
+contents	コンテンツ	
+context	コンテキスト	
+contextual	コンテキスト
+continue	続行	
+contribute	コントリビュート	
+contribution	コントリビューション
+contributor	コントリビューター	
+control	制御
+control	管理
+control	コントロール	
+converter	コンバーター
+converters	コンバーター
 copy	コピー
+copy	コピー	
+correct	正しい	形容詞
+correctly	正しく	
+corresponding	対応する	形容詞的に使用する場合
+corrupt	破壊	
+could not be read	を読み取れませんでした
+counter	カウンター	
+create	作成
+creation	作成	
+credential	証明書
+credentials	証明書
+criteria	基準
+cross reference	相互参照
+cross references	相互参照
+current	現行	
+current	現在の	
+currently	現在	
+cursor	カーソル	
+customize	カスタマイズ
+cut	切り取り
+cycle	循環	JavaVM用語
+cycle	サイクル	
+cyclomatic	循環的	
+daemon	デーモン
 data	データ
+database	データベース	
+database table	データベース・テーブル
+dataflow	データフロー	
+datamodel	データモデル	
+deactivate	非アクティブにする
+deadlock	デッドロック
 debug	デバッグ
+debugger	デバッガー	
+decimal	進数
+decimal	固定精度小数
+declare	宣言	
+declaring type	宣言型	
+decompress	解凍	
+decoration	装飾	
+decorator	デコレーター
+default	デフォルト	
+defined	定義	形容的に使用する場合。
+definition	定義
+definitions	定義	
 delay	遅延
+delayed	遅延	
+delegate	委譲
 delete	削除
+delete	削除
+delta	デルタ	
+demonstrate	示す	
+dependencies	依存関係
+dependency	依存関係
+deploy	デプロイ
+deprecated	非推奨	限定用法の場合。
+deprecated	使用すべきではありません	叙述用法の場合。
+derive	派生する
+descendant	下位	
+descendent	下位
+descendent	下層
+description	記述
+description	説明
+descriptor	記述子	
+deselect	選択解除	
+design	デザイン	
+design session	デザイン・セッション	
 designer	デザイナ
+designer	デザイナー	
+desired	必要な	
+detach	切り離す
+detach	切り離す	
 detail	詳細
+detail	詳細	
+detailed	詳細な	形容詞的に使用。
+details	詳細	
+detect	検出	
+detection	検出
 detector	検知器
+detector	ディテクター
+determine	判別
+determine	決定
+determine	識別
+developer	開発者	
+development	開発	
+device	デバイス	
+dialog	ダイアログ	
+dialogs	ダイアログ	
+dictionary	辞書	
+difference	差異
+difference	相違
+different	異なる
+digest	ダイジェスト
+digit	数字	
+directive	ディレクティブ
+directory	ディレクトリー	
 disable	無効化
+discard	破棄
+disconnect	切断	
+discouraged	推奨されません	
+discover	発見
+disk	ディスク	
 displayname	表示名
+distribution	ディストリビューション	
+documentation	ドキュメンテーション	
+doomed	破綻した	
+dot	ドット	
+double	ダブル
 double-click	ダブルクリック
 download	ダウンロード
+drag and drop	ドラッグ・アンド・ドロップ	
+duplicate	重複
+duplicated	重複した	
 duration	期間
+dynamic	動的	
+e-mail	e-mail	訳さない
+e.g.	例	
+each	各	
 edit	編集
+editor	エディター	
+editors	エディター	
 element	要素
+element	要素	
+eligible	使用できる	
+embedded	埋め込み	
+embedded	組み込み	
+emulate	エミュレート	
 enabled	有効
+enclosing	エンクロージング	
+encoding	エンコード
+encountered	発生しました	【例】warning messages were encountered= 警告メッセージが発生しました
+encountered	見つかりました	
+encrypt	暗号化
+end point	エンド・ポイント	
+engine	エンジン	
+engineering	エンジニアリング	
+enlarge	拡大する	
+enlarge	拡大する	
+enritch	リッチ化
+ensure	確認	
+ensure	確認する	
+enterprise	エンタープライズ
+enterprise application	エンタープライズ・アプリケーション
+entities	実体	
+entities	エンティティー	
+entries	エントリー	
+entry	エントリー	
+enum	列挙型	
 enumerate	列挙
+enumerator	列挙型
+enumerator	列挙子
+enumerator	列挙子値
+enumerators	列挙型
+enumerators	列挙子
+enumerators	列挙子値
+envelope	エンベロープ
+environment	環境	
+environment variable	環境変数	
+environment variables	環境変数	
+equal	等しい
+equivalence	等価	
 error	エラー
+error	エラー	
+error occurred	エラーが発生しました
+establish	確立	動詞
+events	イベント	
+exactly	正確に	
+exactly	ちょうど	
+example	例
+example	実例
+example	サンプル
+exceed	超える	
+exception	例外	
+executable	実行可能	
+executable	実行可能ファイル	
 execution	実行
+execution plan	実行プラン	
+executor	実行プログラム
+existing	既存
 exit	終了
+expand	展開
+expandable	展開可能	
+explicit	明示的
+explicitly	明示的に	
+exploration	探索	
 export	エクスポート
+export	エクスポート
+export to	エクスポート先	名詞的に使われる場合
+exporter	エクスポーター
+expose	公開
+expression	式	プログラミング言語用語
+expressions	式	
+extender	エクステンダー
+extension	拡張	
+extension	拡張子	
+extension point	拡張ポイント
+external	外部	
+externalized	外部化された
+extract	抽出
+extracted type	抽出型	
+facet	ファセット	
+faceted project	ファセット・プロジェクト	
+facilities	機能	
+factory	ファクトリー	
+failed	～に失敗しました	「～が失敗しました」ではない。【例】State validation failed.=状態の検証に失敗しました。
+fatal	致命的	
+feature	フィーチャー
+field	フィールド	
 file	ファイル
+file	ファイル	
+file system	ファイル・システム	
+file type	ファイル・タイプ	
 filename	ファイル名
+files	ファイル	
+fileset	ファイルセット
+fill in	入力	動詞句
+filter	フィルター	
+filter pool	フィルター・プール	
+filters	フィルター	
+filtration	フィルター
+fix	修正	
+fixed	固定	
+flatfile	フラットファイル
+flexible	柔軟な
+flexible	フレキシブル	Eclipse用語
+floating point	浮動小数点
+flow	フロー	
+flush	フラッシュ	
+foldable	折りたたみ可能な	
 folder	フォルダ
+following	次の
+font	フォント	
+for example	例えば	
+for the first time	初めて	
+forbid	禁止する	
 force	強制
+foreground color	前景色	
+foreign key	外部キー	
+form	フォーム	いわゆる入力フォームなどの場合。
+format	書式
+format	フォーマット
+full build	フル・ビルド	
+full name	フル・ネーム
+function	関数	
+function call	関数呼び出し	
+functional	機能	
+functionality	機能	
+garbage	ガーベッジ	
 general	一般
+generate	生成
+generation	生成	
+generic	汎用
+generic	総称	java用語
+given	指定された	
+graph	グラフ	
+gray	グレー
+greater than or equal	以上	
+grid	グリッド	
+group	グループ	
+grouping	グループ化
+guard	ガード	
+handle	ハンドル	
+handler	ハンドラー
+handshake	ハンドシェーク	
+harmless	無害	
+has	ある	助動詞ではなく「もつ」という意味の動詞の場合、「ある」という訳が多い。
+heap walking	ヒープ・ウォーキング	
 height	高さ
+help	支援	動詞
+helps you	支援する
+here	ここ	
+hexadecimal	16 進	
+hexadecimal	16 進数	
+hide	隠蔽	プログラミング言語用語
+hierarchy	階層	
 highlight	強調
+hold	保持
+holder	ホルダー	
+host	ホスト	
+hover	ホバー	
+hunk	ハンク
+hyperlink	ハイパーリンク
+i.e.	つまり	
+identification	ID	
+identification	識別	
+identified	識別	
+identifier	識別子
 ignore	無視
+ignore	無視する	
 image	イメージ
+image	イメージ	
+immediate	即時	
+immediate	直接の	
+immediately	すぐ	
+immediately	即時に	
+implement	実装	
+implicit	暗黙の	
 import	インポート
+import from	インポート元	名詞的に使われる場合
+import section	インポート・セクション	
+importer	インポーター
+improvement	改善	
+in parallel	並行して	
+in progress	進行中	
+in the future	今後	
+in the future	将来	
+in-place	in-place	訳さない
+inaccessible	アクセス不能
+inactive	非アクティブ	
+inactivity	非アクティブ	
+include	含む	
+include	インクルード	
+incompatible	非互換の
+incorporate	組み込む	
+incorrect	誤っている	
+incorrectly	誤って
+indentation	インデント	
+index	インデックス	
+indicate	示す	
+indicator	インジケーター
+indirectly	間接的に	
+individual	個々の	
+informational	情報	
+infrastructure	基盤	
+inheritance	継承	
+inherited type	継承型	
+initial	初期
+initialization	初期化	
+initialize	初期化
+initializer	イニシャライザー
+initializers	イニシャライザー
+inline	インライン	
+inner	インナー
+input	入力	
 insert	挿入
+instability	不安定性	
+install	インストール	
+installable	インストール可能
+installation	インストール	
+instance	インスタンス	
 instances	インスタンス
+instantiate	インスタンス化	
+instantiation	インスタンス化
+instead	代わりに
+instead of	ではなく
 instead of	代わりに
+instead of	の代わりに
+integer	整数	
+integration	統合	
+intelligent	インテリジェント	
+intend	意図する	
+interface	インターフェース
+interfaces	インターフェース	
+intermediate	中間	
+internally	内部的に	
+invalid	無効な
+invocation	呼び出し	
 invoke	実行
+invoke	呼び出す
+is disabled	無効
+is disabled	使用不可
+issue	問題	
+item	項目	
+iterate	繰り返す	
+itself	それ自身
+itself	それ自体	
 keep	維持
+keep	保持	
+keepalive	キープアライブ	
+key	鍵	セキュリティ用語
 key	キー
+key	キー	
+key binding	キー・バインド
+key bindings	キー・バインド
+keystore	鍵ストア	長音なし
 keystroke	キーストローク
+known	既知の
+label	ラベル	
 language	言語
+language	言語	
+latest	最新
+launcher	ランチャー
+layer	レイヤー	
+layout	レイアウト	
+leading	先頭
+left	左	
+legal	正しい	
+less than	未満	
+letter	文字	
+level	レベル	
+lexicographic	辞書の	
+libraries	ライブラリー	
+library	ライブラリー	
+lifecycle	ライフサイクル	
+like	のように
+limit	制限	
+limit	限度	
+limitation	制限	
+line	行
+line break	改行	
+line breaks	改行	
+line feed	改行	
+linebreaks	改行	
+linking	リンク	
+listed below	以下にリストされた
+listening	リスニング	
+listing	リスト
+literal	リテラル	
+load	ロード	
 local	ローカル
+local	ローカル	
+local workspace	ローカル・ワークスペース	
+localhost	ローカルホスト	
+localization	ローカライゼーション	
+localized	ローカライズされた	
+location	場所	ファイル内のどこかを示す場合が多い
+location	ロケーション	ファイル・システム上を示す場合が多い
+locations	ロケーション	
+locator	ロケーター	
+lock	固定
+lock	ロック
+locking	ロック	名詞的に使用する場合
 logging	ロギング
+logical	論理	
+login	ログイン	
+lookahead	先読み
+lookbehind	後読み
+lookup	ルックアップ	
+loop	ループ	
+malformed	誤った
+managed	管理	形容詞的に使用する場合。
+manifest	マニフェスト	
+manually	手動で
+map	マップ	
+mapper	マッパー
+mapping	マッピング
+mark	マーク	
+marker	マーカー	
+markers	マーカー	
+markup	マークアップ
+mask	マスク
+match	一致
+matcher	matcher	訳さない？
+matches	一致	
+matching	一致する	形容詞的に使用する場合。
+matching	マッチング	動詞的に使用する場合。
+max length	最大長
+maximum	最大	
+maxium	最大	
+may not be	できません
+may not be	あってはなりません
+mechanism	機構
+member	メンバー	
+memory	メモリー	
+merge	マージ	
 message	メッセージ
+message	メッセージ	
+message box	メッセージ・ボックス	
+message listener interface	メッセージ・リスナー・インターフェース
+message-driven	メッセージ駆動型
+messages	メッセージ	
+metadata	メタデータ
+metadata repository	メタデータ・リポジトリー
+method call	メソッド呼び出し
+methods	メソッド	
+metric	メトリック	
+migrate	マイグレーション
+migration	マイグレーション	
 minimize	最小化
+minimum	最小	
+minimum length	最小長
+missing	ない	動詞
+missing	欠落	名詞的に使用する場合。
+missing	ありません	
+misspelled	スペルミス	
+mixed content	混合コンテンツ	
+modification	変更	
+modify	変更する
+module	モジュール	
+modules	モジュール	
+monospace	等幅	
+more than once	複数回	
+more than one	複数の	
 mouse	マウス
 move	移動
+move	移動	
+ms	ミリ秒	
+multi-line	複数行	
+multiline	複数行
+multiple	倍数	名詞
+multiple	複数の	形容詞
+multithreaded	マルチスレッドの	
+must not be null	null にできません	
+name	名	前の単語とつなげる場合。【例】function name=関数名
 name	名前
+name	名前	
+name	名称	【例】new name=新規名称
+namespace	名前空間	
+naming convention	命名規約	
+naming conventions	命名規約	
+native	ネイティブ	
+nature	ネーチャー	Eclipse用語
+navigator	ナビゲーター	
+necessary	必要な	
+negative	負	
+nested	ネストされた	
+network	ネットワーク	
 new	新規
+new	新規	メニュー項目など簡潔な表現が必要な場合
+new name	新規名
+new name	新しい名前
+newline	改行
+nodes	ノード	
+non-abstract	非抽象	
+non-binary	非バイナリー	
+non-conflicting	非競合の
+non-conflicting	競合しない
+non-final	非 final	
+non-primitive	非プリミティブ	
+non-static	非 static	
+not available	使用不可	
+not available	使用できません	
+not exist	存在しません	
+not found	見つかりません	
+not valid	有効ではありません
+not visible	不可視	
+notification	通知
+notifier	ノーティファイアー？
+now	今すぐ	
+number	数	
+numeric	数値
+object	オブジェクト	
+obstructed	遮断
+obtain	取得	
+occurred	発生しました	
+occurrence	出現箇所	
+occurrences	出現箇所	
+off	オフ	
+offline	オフライン	
 offset	オフセット
+offset	オフセット
+omit	省略
+on startup	始動時に	
+one	1 つ	
+one or more	1 つ以上	
 open	開く
+open-source	オープン・ソース	
+operating system	オペレーティング・システム
+operation	演算	プログラミング言語用語
+operator	演算子
+operators	演算子	
+option	オプション	
+optional	オプションの
+optionally	オプションで	
+options	オプション	
+or	～か、または	文節や文をつなぐ場合
+orientation	向き	
+original	元の
+original	オリジナル
+out of range	範囲外
+out of sync	非同期	名詞的に訳す場合。
+out of sync	同期がとれていない	
 output	出力
+output stream	出力ストリーム
 overlay	オーバレイ
+overridden	オーバーライドされた	
+override	オーバーライド
+overwrite	上書き
+own	所有する	
+owner	所有者
+ownership	所有権	
 package	パッケージ
+package	パッケージ	
+package explorer	パッケージ・エクスプローラー	
+packages	パッケージ	
+padding	パディング	
+page	ページ	
+paradigm	パラダイム	
+paragraph	段落	
+parameter	パラメーター
+parameterized	パラメーター化	
+parent	親	
+parent type	親タイプ	
+parenthesis	小括弧	
+parse	構文解析	
+parser	パーサー
+parsers	パーサー
+participant	パーティシパント	Eclipse用語
+password	パスワード	
+patch	パッチ	
+pattern	パターン	
+patterns	パターン	
+per	別
+per	あたり
+per	ごとに
+percentage	パーセント	
+perform	実行	
+performance	パフォーマンス	
+permanent	永久
+permanent	永続
 permission	権限
+permission	権限	
+permissions	アクセス権	
+persist	保持
+persist	維持
+persistence	永続化
+persistent	永続
+persistent	永続化
+perspective	パースペクティブ	Eclipse用語
+placeholder	プレースホルダー	
+plain text	プレーン・テキスト	
+plan	プラン	
+platform independent	プラットフォーム非依存
+platform-independent	プラットフォーム非依存
 play	再生
+please note	注意してください
+plug-in	プラグイン
+plug-ins	プラグイン	
 plugin	プラグイン
+point	指す	動詞
+pointcut	ポイントカット
+pointer	ポインター	
+pointing to	～を指す
+policy	ポリシー
+pop-up	ポップアップ	
+popup	ポップアップ	
+positive	正の	
+possible	可能な
+possible	考えられる
+post condition	事後条件	
+potential	潜在的な
+practice	実例	
+precision	精度	
+precondition	前提条件	
+preference	設定
+preferences	設定	
+prefix	接頭部
+preload	プリロード	
+preview	プレビュー	
+previous	前の	
+previously	前回
+previously	以前に
+primary key	主キー
+priority	優先度	
+private	個人用	
+privilege	権限	
+problem occurred	問題が発生しました	
+procedure	プロシージャー	
+proceed	続行
+process	プロセス	
+profile	プロファイル
+program	プログラム	
+programs	プログラム	
 project	プロジェクト
+project	プロジェクト	
+project context	プロジェクト・コンテキスト	
+project nature	プロジェクト・ネーチャー	
+projects	プロジェクト	
+prompt	プロンプト	
+prompted	プロンプトを表示する
+prompted	プロンプトが表示される
 properties	プロパティ
+properties	プロパティー
+property	プロパティー
+proposal	プロポーザル	
+proposals	プロポーザル	
+protect	保護
+protection	保護
+protocol	プロトコル
+provide	指定
+provide	提供
+provider	プロバイダー
+provisioning	プロビジョニング
+publisher	パブリッシャー
+publishers	パブリッシャー
+pulldown	プルダウン	
+qualification	修飾
+qualified	修飾	
+qualifier	修飾子	
 quality	品質
+quality	品質	
+query	照会	
 queue	キュー
+quick	クイック
+quick assist	クイック・アシスト	
+quickfix	クイックフィックス
+quickfixes	クイックフィックス	
+range	範囲	
+ratio	率	
+ratio	比率	
 read	読込
+read	読み取り	
+read only	読み取り専用
+read-only	読み取り専用
+receive	受信	
+receive	受け取る	
+recommendation	推奨	
 record	記録
+record	レコード	
 recording	レコーディング
+redone	やり直し
+redundant	冗長な
+refactoring	リファクタリング
+refer to	参照	
+reference	参照	
+references	参照	
+reflection	リフレクション	
+refreshed	リフレッシュされる	
+register	レジスター	
+registry	レジストリー
+regular expression	正規表現	
+regular expressions	正規表現	
+reject	拒否	
+relate	関連
+related	関連	形容詞的に使用する場合。
+relational	リレーショナル	
+relationship	関係	
 relative	相対
+relative	相対	
+release	リリース	
+reliability	信頼性	
 reload	再読込
+reload	再ロード
+remap	再マップ
 remote	リモート
+remote file	リモート・ファイル	
+remote server	リモート・サーバー	
+remove	除去
+rename	名前変更
 rename	名前の変更
+render	レンダリング	
+report	報告	
+report	レポート	名詞
+reporting	レポート	
+repository	リポジトリー
+repository location	リポジトリー・ロケーション
+request	要求	
+required	必要
+required	必須
+requirement	要件	
+reserved	予約済み	
+reserved word	予約語	
+reserved words	予約語	
+reset	リセット
+resize	サイズ変更	
+resolution	解決	
+resolve	解決
+resolver	リゾルバー
+resource	リソース	
+resources	リソース	
+response	応答	
+restart	再開	ジョブや処理
+restart	再起動	OSなど？（用例少ない）
+restart	再始動	ワークベンチなど（用例多い）
+restore	復元
+restriction	制限	
 result	結果
 return	返却
+return type	戻り型
+return type	戻りの型	
+return value	戻り値	
+reveal	表示	動詞
+reverse	反転
+reverse	リバース
+revision	改訂	ソース・コード管理用語
+revision	リビジョン	
+right	右	
 role	ロール
+root	ルート	
 row	行
 run	実行
+runnable	実行可能	形容詞
+runnable	実行可能コード	名詞。プログラミング言語用語。
+runner	ランナー	
 running	実行中
 runtime	ランタイム
+runtime environment	ランタイム環境
+runtime environments	ランタイム環境
+same	同じ	
+sample	サンプル	
 save	保存
+save	保管
+scale	スケール	
+schedule	スケジュール	
+schema	スキーマ	
 screen	画面
+scripting	スクリプティング	
+scripts	スクリプト	
+scroll	スクロール	
+scrolling	スクロール	
 search	検索
+search result	検索結果
+search results	検索結果
+searched	条件付き	【例】searched CASE expression=条件付き CASE 式
+sec	秒	
+secondary	セカンダリー	
+secure	セキュア	長音なし
+secured	保護された	
+security	セキュリティー
+see	表示
+see	参照	ログなど内容の確認を示唆する場合
+see log for details	詳細はログを参照してください	定型表現
 select	選択
+selectable	選択可能	
+selected	選択した	限定用法の場合。【例】selected item=選択したアイテム
+selected	選択された	叙述用法の場合。【例】item is selected=アイテムが選択されました。
+selection	選択	
 selector	セレクタ
+selector	セレクター	
+semantic	セマンティック	
+semantics	セマンティクス	
+semicolon	セミコロン	
 send	送信
+separate	別の	
+separated list	区切りリスト	【例】comma separeted list=コンマ区切りリスト
+separator	セパレーター	
+sequence	シーケンス	
+serial	シリアル	
 serializable	シリアライズ可能
+serializable	シリアライズ可能
+services	サービス	
+servlet	サーブレット
+session	セッション	
+sessions	セッション	
+set	設定	動詞
+set	セット	名詞
 setting	設定
+setup	セットアップ
+severity	重大度	
+sharable	共用可能	
+share	共用	
+shared	共用
+shell	シェル	
 show	表示
+sibling	兄弟	
+signal	シグナル	
+signature	署名
+signature	シグニチャー
+signing	署名
 signout	サインアウト
+similar	類似の
+similarly	類似した
+simulated	シミュレートされた	
+single	単一	
+single	シングル	
+singleton	シングルトン	
+site	サイト
+snapshot	スナップショット
 snippet	スニペット
+snippet	スニペット	
+solution	解
+solution	ソリューション
+sort	ソート	
+space	スペース	
+specific	固有の	
+specific	特定の	
+specification	仕様
+specification	指定
+specifier	指定子
+specifiers	指定子
+specify	指定	
+spell	スペル	
+spelling	スペル	
+splash screen	スプラッシュ画面
+splitting	分割	
+stack	スタック	
+stack trace	スタック・トレース
+standalone	スタンドアローン	
 start	開始
+start	始動	Eclipse、サーバーなど
+start	始まる	
+starting up	始動
+starting up	始動中
+startup	始動	
+startup	開始	
 state	状態
+state	状態	
+statement	ステートメント	
+statements	ステートメント	
+status	状況
 status	ステータス
+status	ステータス 
+stderr	標準エラー
+stdout	標準出力
+step through	ステップ・スルー
+stereotype	ステレオタイプ
+stereotypes	ステレオタイプ
 stop	停止
+storage	記憶装置	【例】persistent storage=永続記憶装置
+storage	ストレージ
+store	保管
+stored procedure	ストアード・プロシージャー	
+strictly	厳密に	
+strike-through	取り消し線	
 string	文字列
+strongly recommended	強くお勧め	
+structure	構造	
+stub	スタブ	
+stubs	スタブ	
+stylesheet	スタイルシート	
+stylesheets	スタイルシート	
+sub	サブ	
+subclass	サブクラス	
+subclasses	サブクラス	
+subfolder	サブフォルダー	
+subquery	サブクエリー	
+subscript	下付き	
+subset	サブセット	
+subset	サブセット化	動詞的に使用する場合。
+subsetting	サブセット	
+substring	部分文字列
+subsystem	サブシステム	
+subtopic	サブトピック	
+successful	成功	
+successfully	正常に
+suffix	接尾部
+suffixes	接尾部
+suite	スイート	
+summaries	要約
+summary	要約
+super type	スーパー・タイプ	
+superclass	スーパークラス
+superinterface	スーパーインターフェース	
+superscript	上付き	
+supertype	スーパータイプ	
+supplied	指定	形容詞的に使用する場合。
+support	サポート	
+suppress	抑制	
+suspend	中断	
 swap	交換
+swap	スワップ	
+symbol	記号	
+syntax	構文
+synthetic	合成	
+tab	タブ	
 table	テーブル
+tag	タグ	
+tags	タグ	
 target	ターゲット
+target	ターゲット
+target file	ターゲット・ファイル	
+teletype	テレタイプ	
+temp	一時	
+template	テンプレート	
+temporary	一時
+terminal	ターミナル
+terminate	終了	
+test	テスト	
 text	テキスト
+text	テキスト	
+text box	テキスト・ボックス	
+therefore	したがって	文頭で使用される場合。
+this	この	
+thread	スレッド	
+threshold	しきい値	
+through	を通して
+throw	スロー	
+thrown	スローされる	
+time	時間	
+time limit	制限時間
 timeout	タイムアウト
+timeout	タイムアウト	
+tip	ヒント
 title	タイトル
+title	タイトル	
 to view	で表示
+toggle	切り替え
 tool	ツール
+tool	ツール	
+tool support	ツール・サポート	
+toolbar	ツールバー	
 toolbox	ツールボックス
+tools	ツール	
+tooltip	ツールチップ	
+top down	トップ・ダウン
+top level	トップ・レベル	
+top-level	トップレベル	
+topic	トピック	
+trace	トレース	
+tracing	トレース	名詞的に使用する場合
+trailing	末尾
+transfer	転送
+transient	一時的	
+transition	遷移
+translate	変換
+translator	トランスレーター
+transport	トランスポート
+tree	ツリー	
 trigger	トリガ
+truncate	切り捨てる	
+try again	再試行	
+tunnel	トンネル
+type	型	プログラミング言語用語
 type	タイプ
+type	タイプ	
+type parameter	型パラメーター
+type parameters	型パラメーター	
+types	型	
+typically	通常	
+udpater	アップデーター	
+unavailable	使用不可	
+unavailable	使用できません	
+unchecked	未検査	【例】unchecked exception=未検査例外
+unclassified	分類外	
 uncomment	コメント解除
+undefined	未定義
+underlined	下線付き	
+underlying	基底	
+underlying	基礎	
+undesirable	有害な	
+undo	取り消し
+undone	元に戻す
+unexpected	予期しない
+unimplemented	未実装の	
+unique	一意	データベース用語
+unique	固有の	
+uniquely	一意的に
+unit	単位	
+units	単位	
+universal	汎用
+unknown	不明な	
+unlimited	無制限	
+unlocked	アンロック
+unnecessary	不要な	
+unresolvable	解決不可能な
+unresolved	未解決
+unsafe	安全でない	
+unshared	未共用	
+unspecified	未指定の	主に限定用法。【例】unspecified error=未指定のエラー
+unspecified	指定されていない	叙述用法の場合。【例】name unspecified=名前が指定されていません
+unversioned	バージョン管理外
 update	更新
+update site	更新サイト
+upgrade	アップグレード	
 upload	アップロード
+upper bound	上限
+uppercase letter	大文字	
+usage	使用
+usage	使用率	【例】CPU usage=CPU使用率
+usage	使用例	【例】usage example=使用例
 use	使用
 user	ユーザ
+user	ユーザー
+user action	ユーザー・アクション
+user-defined	ユーザー定義	形容詞
 username	ユーザ名
+utility	ユーティリティー
+valid	有効な
+validation	検証
+validator	バリデーター
+validity	妥当性
+validity	有効期間
 value	値
+value	値	
 variable	変数	Basic
+variables	変数	
+various	さまざまな	
+vars	変数	
+verify	検証する	
 version	バージョン
+version	バージョン
+versioned	バージョン管理対象の	形容詞
+via	経由	
 video	ビデオ
+view	表示	
 view	ビュー
+view	ビュー	Eclipse用語。データベース用語。
+viewer	ビューアー
 virtual	仮想
+visibility	可視性	プログラム言語上のスコープ
+visibility	表示と非表示	画面の表示切替など
+visible	可視	プログラミング言語用語。
+visible	表示する	形容詞
+visual	ビジュアル
+vulnerability	脆弱性	
 wait	待機
 warning	警告
+warning	警告
+watchpoint	監視ポイント	
+well formed	適切に書式化された
+were found	見つかりました	
+whenever	ときは常に
+white space	空白文字	
+widget	ウィジェット
 width	幅
+width	幅	
+wild card	ワイルド・カード	
+window	ウィンドウ	
+with respect to	関して
+wizard	ウィザード
+word wrap	ワード・ラップ	
+work with	～で作業	
+workbench	ワークベンチ	Eclipse用語
 workflow	ワークフロー
+working directory	作業ディレクトリー	
+working set	ワーキング・セット
+workspace	ワークスペース	
+wrap	折り返す	動詞
+writable	書き込み可能
+wrong	不正な	
+yield	もたらす	
+zero	ゼロ	
