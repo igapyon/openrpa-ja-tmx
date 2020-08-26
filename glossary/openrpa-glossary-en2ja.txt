@@ -1137,48 +1137,40 @@ reset	リセット
 resize	サイズ変更	
 resolution	解決	
 resolve	解決
-resolver	リゾルバー
+resolver	リゾルバ
 resource	リソース	
-resources	リソース	
 response	応答	
 restart	再開	ジョブや処理
-restart	再起動	OSなど？（用例少ない）
-restart	再始動	ワークベンチなど（用例多い）
+restart	再起動	
 restore	復元
 restrict	制限	
 restriction	制限	
 result	結果
-result	結果	
 result set	結果セット	
 retrieve	取得	
 return	返却
 return	戻り	形容詞的に使用する場合。【例】return type=戻り型
 return	リターン	
 return type	戻り型
-return type	戻りの型	
 return value	戻り値	
 reveal	表示	動詞
 reverse	反転
 reverse	リバース
 revision	改訂	ソース・コード管理用語
 revision	リビジョン	
-revisions	改訂	
 right	右	
 role	ロール
 rollover	ロールオーバー	
 root	ルート	
 row	行
-row	行	
 rule	ルール	
 ruler	ルーラー	
 run	実行
-run	実行	
 runnable	実行可能	形容詞
 runnable	実行可能コード	名詞。プログラミング言語用語。
 runner	ランナー	
 running	実行中
 runtime	ランタイム
-runtime	ランタイム	
 runtime environment	ランタイム環境
 runtime environments	ランタイム環境
 same	同じ	
