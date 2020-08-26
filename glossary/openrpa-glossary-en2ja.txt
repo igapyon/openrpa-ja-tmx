@@ -196,10 +196,8 @@ clean up	クリーン・アップ
 cleanup	クリーンアップ
 clear	クリア
 click	クリック
-click	クリック	
 client	クライアント	
 clipboard	クリップボード
-clipboard	クリップボード	
 close	閉じる
 code	コード	
 codec	コーデック
@@ -209,27 +207,23 @@ collecting	収集	名詞的に使用する場合。
 collecting	収集中	進行形
 collection	集まり	
 collection	コレクション	プログラミング言語用語
-collector	コレクター	
-collector	コレクター	
+collector	コレクタ	
 collide	競合
 collide	衝突
 collision	衝突
-colored labels	色付きラベル	
+colored label	色付きラベル	
 column	列	
 comapre	比較	
 combination	組み合わせ	
 comma	コンマ
 command	コマンド	
-commands	コマンド	
 commas	コンマ
 comment	コメント
-comment	コメント	
 commenting	コメント	
-comments	コメント	
 commit	コミット	
 communication	通信
 communication	コミュニケーション
-comparator	コンパレーター	
+comparator	コンパレータ	
 comparison	比較	
 compatibility	互換性
 compatibility mode	互換モード
@@ -237,19 +231,17 @@ compatible	互換
 compatible	互換性
 compilation	コンパイル	
 compile	コンパイル	
-compiler	コンパイラー	
-complete	完了
+compiler	コンパイラ	
 complete	完了
 complexity	複雑度	
 component	コンポーネント
-components	コンポーネント	
 composite	コンポジット	
 compress	圧縮	
 compression	圧縮	
 comprise	構成する	
 computation	計算	
 compute	計算	
-computer	コンピューター	
+computer	コンピュータ	
 concatenate	連結	動詞
 concurrent	並行	
 concurrent	同時	
@@ -268,39 +260,32 @@ confirmation	確認
 conflict	競合
 connect	接続	
 connection	接続
-connections	接続	
 connectivity	接続	
-connector	コネクター
+connector	コネクタ
 consideration	考慮	
 console	コンソール	
 constant	定数	
 constraint	制約	
 construct	構成する
-constructor	コンストラクター
-constructors	コンストラクター	
+constructor	コンストラクタ
 contact	連絡先	名詞
 contain	含む	
-container	コンテナー
-content	コンテンツ
+container	コンテナ
 content	コンテンツ
 content type	コンテンツ・タイプ	
-contents	コンテンツ	
 context	コンテキスト	
-contexts	コンテキスト	
 contextual	コンテキスト
 continue	続行	
 contribute	コントリビュート	
 contribution	コントリビューション
-contributor	コントリビューター	
+contributor	コントリビュータ	
 control	制御
 control	管理
 control	コントロール	
 convention	規約	
 convert	変換	
-converter	コンバーター
-converters	コンバーター
+converter	コンバータ
 copy	コピー
-copy	コピー	
 core	コア	
 correct	正しい	形容詞
 correctly	正しく	
