@@ -18,6 +18,8 @@ package jp.igapyon.tmx2resx;
 import java.io.File;
 import java.io.IOException;
 import java.util.Map;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 import javax.xml.xpath.XPath;
 import javax.xml.xpath.XPathConstants;
@@ -39,7 +41,8 @@ public class ResxTransUtil {
      * @throws IOException
      */
     public static void translate(Map<String, String> tmxMap, File fileInput, File fileOutput) throws IOException {
-        String resxString = FileUtils.readFileToString(fileInput, "UTF-8");
+        final String origResxString = FileUtils.readFileToString(fileInput, "UTF-8");
+        String resxString = origResxString;
         resxString = resxString.replace("\uFEFF", ""); // BOM
 
         Document document = XmlSimpleUtil.string2dom(resxString);
@@ -68,7 +71,26 @@ public class ResxTransUtil {
         }
 
         String xml = XmlSimpleUtil.dom2xml(document.getDocumentElement());
-        xml = "\uFEFF" + xml;
+
+        {
+            String originalSchemaPart = null;
+
+            Pattern pattern = Pattern.compile("</xsd:schema>");
+            Matcher orgMatcher = pattern.matcher(origResxString);
+            if (orgMatcher.find() == false) {
+                System.err.println("スキーマ発見できず: Unexpected");
+            } else {
+                originalSchemaPart = origResxString.substring(0, orgMatcher.end());
+            }
+
+            Matcher dstMatcher = pattern.matcher(xml);
+            if (dstMatcher.find() == false) {
+                System.err.println("スキーマ発見できず: Unexpected");
+            } else {
+                xml = originalSchemaPart + xml.substring(dstMatcher.end());
+            }
+        }
+
         xml = xml.replaceAll("\"/>\\n", "\" />\n");
         FileUtils.writeStringToFile(fileOutput, xml, "utf-8");
     }
