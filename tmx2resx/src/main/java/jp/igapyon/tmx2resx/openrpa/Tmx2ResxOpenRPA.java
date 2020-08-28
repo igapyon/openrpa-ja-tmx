@@ -23,6 +23,7 @@ import jp.igapyon.tmx2resx.TmxSimpleUtil;
 
 public class Tmx2ResxOpenRPA {
     public static void main(String[] args) throws IOException {
+        System.err.println("実翻訳とTMXの解離チェック: Begin.");
 
         File fileRoot = new File("../../openrpa/");
         if (!fileRoot.exists()) {

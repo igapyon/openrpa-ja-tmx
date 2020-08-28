@@ -449,7 +449,7 @@
         <seg>Highlight an element found with GetElement</seg>
       </tuv>
       <tuv lang="ja" changeid="toshiki" changedate="20200823T034728Z" creationid="toshiki" creationdate="20200823T034728Z">
-        <seg>GetElement で見つかった要素をクリック</seg>
+        <seg>GetElement で見つかった要素を強調</seg>
       </tuv>
     </tu>
     <tu>
