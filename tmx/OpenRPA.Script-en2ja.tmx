@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>C# Intellisense</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113002Z" creationid="toshiki" creationdate="20200828T113002Z">
+        <seg>C# IntelliSense</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click to view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T112943Z" creationid="toshiki" creationdate="20200828T112943Z">
+        <seg>ダブルクリックで表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Force</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T112953Z" creationid="toshiki" creationdate="20200828T112953Z">
+        <seg>強制</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invoke Code</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T112947Z" creationid="toshiki" creationdate="20200828T112947Z">
+        <seg>コードを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Modules</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T112957Z" creationid="toshiki" creationdate="20200828T112957Z">
+        <seg>モジュール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T112951Z" creationid="toshiki" creationdate="20200828T112951Z">
+        <seg>エディタを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use embedded python</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113008Z" creationid="toshiki" creationdate="20200828T113008Z">
+        <seg>埋込 python を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>VB Intellisense</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113011Z" creationid="toshiki" creationdate="20200828T113011Z">
+        <seg>VB IntelliSense</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allow child searching</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113812Z" creationid="toshiki" creationdate="20200828T113812Z">
+        <seg>子の検索を許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Allow multiple hits</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113815Z" creationid="toshiki" creationdate="20200828T113815Z">
+        <seg>複数ヒットを許可</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113807Z" creationid="toshiki" creationdate="20200828T113807Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable caching</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113824Z" creationid="toshiki" creationdate="20200828T113824Z">
+        <seg>キャッシュを有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enum properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113826Z" creationid="toshiki" creationdate="20200828T113826Z">
+        <seg>プロパティを列挙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find an Windows UI element based on selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113715Z" creationid="toshiki" creationdate="20200828T113715Z">
+        <seg>セレクタを基準にWindows UI 要素を発見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113704Z" creationid="toshiki" creationdate="20200828T113704Z">
+        <seg>要素を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get elements in different thread</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113829Z" creationid="toshiki" creationdate="20200828T113829Z">
+        <seg>異なるスレッド内の要素を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113758Z" creationid="toshiki" creationdate="20200828T113758Z">
+        <seg>強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loop action</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113706Z" creationid="toshiki" creationdate="20200828T113706Z">
+        <seg>アクションをループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113803Z" creationid="toshiki" creationdate="20200828T113803Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113800Z" creationid="toshiki" creationdate="20200828T113800Z">
+        <seg>セレクタを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search descendants</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113833Z" creationid="toshiki" creationdate="20200828T113833Z">
+        <seg>降順検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113802Z" creationid="toshiki" creationdate="20200828T113802Z">
+        <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113805Z" creationid="toshiki" creationdate="20200828T113805Z">
+        <seg>セレクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Traverse selector both ways</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113836Z" creationid="toshiki" creationdate="20200828T113836Z">
+        <seg>双方向でセレクタを走査</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
