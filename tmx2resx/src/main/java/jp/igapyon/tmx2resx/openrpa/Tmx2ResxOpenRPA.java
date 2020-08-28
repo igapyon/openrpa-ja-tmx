@@ -74,6 +74,21 @@ public class Tmx2ResxOpenRPA {
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
+        // FileWatcher
+        {
+            File fileTmx = new File("../tmx/OpenRPA.FileWatcher-en2ja.tmx");
+            final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
+
+            File fileInput = new File(fileRoot, "OpenRPA.FileWatcher/Resources/strings.resx");
+            if (!fileInput.exists()) {
+                throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
+            }
+
+            File fileOutput = new File(fileRoot, "OpenRPA.FileWatcher/Resources/strings.ja.resx");
+
+            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+        }
+
         System.err.println("end.");
     }
 }
