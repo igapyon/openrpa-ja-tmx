@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add current user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111853Z" creationid="toshiki" creationdate="20200828T111853Z">
+        <seg>カレントユーザを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto Signout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111851Z" creationid="toshiki" creationdate="20200828T111851Z">
+        <seg>自動サインアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Executable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111917Z" creationid="toshiki" creationdate="20200828T111917Z">
+        <seg>実行可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111858Z" creationid="toshiki" creationdate="20200828T111858Z">
+        <seg>サービスをインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Login Username</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111933Z" creationid="toshiki" creationdate="20200828T111933Z">
+        <seg>ログインユーザ名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reauthenticate Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111906Z" creationid="toshiki" creationdate="20200828T111906Z">
+        <seg>サービスを再認証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reload interval</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111922Z" creationid="toshiki" creationdate="20200828T111922Z">
+        <seg>再読込の間隔</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove current user</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111907Z" creationid="toshiki" creationdate="20200828T111907Z">
+        <seg>カレントユーザを除去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111909Z" creationid="toshiki" creationdate="20200828T111909Z">
+        <seg>サービスを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111910Z" creationid="toshiki" creationdate="20200828T111910Z">
+        <seg>サービスを停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uninstall Service</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111912Z" creationid="toshiki" creationdate="20200828T111912Z">
+        <seg>サービスをアンインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use Free RDP</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111928Z" creationid="toshiki" creationdate="20200828T111928Z">
+        <seg>フリー RDP の使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows Password</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111936Z" creationid="toshiki" creationdate="20200828T111936Z">
+        <seg>Windows パスワード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Windows Username</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111938Z" creationid="toshiki" creationdate="20200828T111938Z">
+        <seg>Windows ユーザ名</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

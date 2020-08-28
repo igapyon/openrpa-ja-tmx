@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auth</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123257Z" creationid="toshiki" creationdate="20200823T123257Z">
+        <seg>認証</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export File Data</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123320Z" creationid="toshiki" creationdate="20200823T123320Z">
+        <seg>ファイルデータをエクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123519Z" creationid="toshiki" creationdate="20200823T123519Z">
+        <seg>ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get File Status</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123423Z" creationid="toshiki" creationdate="20200823T123423Z">
+        <seg>ファイルステータスを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Queues</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123457Z" creationid="toshiki" creationdate="20200823T123457Z">
+        <seg>キューを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123349Z" creationid="toshiki" creationdate="20200823T123349Z">
+        <seg>キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Queue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123354Z" creationid="toshiki" creationdate="20200823T123354Z">
+        <seg>キュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Status</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123608Z" creationid="toshiki" creationdate="20200823T123608Z">
+        <seg>ステータス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upload File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123515Z" creationid="toshiki" creationdate="20200823T123515Z">
+        <seg>アップロード・ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Username</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123303Z" creationid="toshiki" creationdate="20200823T123303Z">
+        <seg>ユーザ名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Username or Email</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123259Z" creationid="toshiki" creationdate="20200823T123259Z">
+        <seg>ユーザ名またはEメール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait For File Status</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T123550Z" creationid="toshiki" creationdate="20200823T123550Z">
+        <seg>ファイル・ステータスを待機</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

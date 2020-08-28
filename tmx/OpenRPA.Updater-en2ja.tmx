@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Authors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113130Z" creationid="toshiki" creationdate="20200828T113130Z">
+        <seg>作者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Description</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113133Z" creationid="toshiki" creationdate="20200828T113133Z">
+        <seg>説明</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Install</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113044Z" creationid="toshiki" creationdate="20200828T113044Z">
+        <seg>インストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Latest Version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113140Z" creationid="toshiki" creationdate="20200828T113140Z">
+        <seg>最新バージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Launch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113049Z" creationid="toshiki" creationdate="20200828T113049Z">
+        <seg>起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Launch OpenRPA</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113050Z" creationid="toshiki" creationdate="20200828T113050Z">
+        <seg>OpenRPA を起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reinstall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113053Z" creationid="toshiki" creationdate="20200828T113053Z">
+        <seg>再インストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113054Z" creationid="toshiki" creationdate="20200828T113054Z">
+        <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search for activities</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113109Z" creationid="toshiki" creationdate="20200828T113109Z">
+        <seg>アクティビティを検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search...</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113113Z" creationid="toshiki" creationdate="20200828T113113Z">
+        <seg>検索...</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Summary</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113143Z" creationid="toshiki" creationdate="20200828T113143Z">
+        <seg>要約</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tags</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113144Z" creationid="toshiki" creationdate="20200828T113144Z">
+        <seg>タグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uninstall</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113114Z" creationid="toshiki" creationdate="20200828T113114Z">
+        <seg>アンインストール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update all</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113116Z" creationid="toshiki" creationdate="20200828T113116Z">
+        <seg>すべてをアップデート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Upgrade</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113121Z" creationid="toshiki" creationdate="20200828T113121Z">
+        <seg>アップグレード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113146Z" creationid="toshiki" creationdate="20200828T113146Z">
+        <seg>バージョン</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

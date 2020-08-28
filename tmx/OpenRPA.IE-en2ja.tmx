@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Caching browser object</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104129Z" creationid="toshiki" creationdate="20200828T104129Z">
+        <seg>ブラウザ・オブジェクトをキャッシュ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103934Z" creationid="toshiki" creationdate="20200828T103934Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable XPath</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104138Z" creationid="toshiki" creationdate="20200828T104138Z">
+        <seg>XPath を有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enable experimental XPath support in IE</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104140Z" creationid="toshiki" creationdate="20200828T104140Z">
+        <seg>IE がサポートする実験的 XPath を有効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Find an Windows UI element based on selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104102Z" creationid="toshiki" creationdate="20200828T104046Z">
+        <seg>セレクタを基準にWindows UI 要素を発見</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103927Z" creationid="toshiki" creationdate="20200828T103927Z">
+        <seg>要素を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get current</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104109Z" creationid="toshiki" creationdate="20200828T104109Z">
+        <seg>カレントを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104029Z" creationid="toshiki" creationdate="20200828T104007Z">
+        <seg>強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104033Z" creationid="toshiki" creationdate="20200828T104033Z">
+        <seg>セレクタを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104107Z" creationid="toshiki" creationdate="20200828T104107Z">
+        <seg>URL を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open the specefied url in Internet Explorer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104110Z" creationid="toshiki" creationdate="20200828T104110Z">
+        <seg>Internet Explorer 中の特定の URL を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save browser object, instead of searching for the window doing each call</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104135Z" creationid="toshiki" creationdate="20200828T104135Z">
+        <seg>ウィンドウを各々呼び出して検索する代わりに、ブラウザ・オブジェクトを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for page page to be ready / is not loading</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104120Z" creationid="toshiki" creationdate="20200828T104120Z">
+        <seg>ページが準備状態つまり非ロード中になるまで待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for ready</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104114Z" creationid="toshiki" creationdate="20200828T104114Z">
+        <seg>準備状態を待機</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

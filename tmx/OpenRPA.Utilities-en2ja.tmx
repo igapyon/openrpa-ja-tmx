@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Array of DataTable columns</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113234Z" creationid="toshiki" creationdate="20200828T113234Z">
+        <seg>DataTable 列の配列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compiled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113245Z" creationid="toshiki" creationdate="20200828T113245Z">
+        <seg>コンパイル済み</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>DataTable to insert into</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113522Z" creationid="toshiki" creationdate="20200828T113225Z">
+        <seg>挿入 DataTable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113243Z" creationid="toshiki" creationdate="20200828T113243Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New DataTable variable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113256Z" creationid="toshiki" creationdate="20200828T113256Z">
+        <seg>新規 DataTable 変数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New columns Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113237Z" creationid="toshiki" creationdate="20200828T113237Z">
+        <seg>新規列名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Replace with this string</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113253Z" creationid="toshiki" creationdate="20200828T113253Z">
+        <seg>この文字列で置換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Row</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113239Z" creationid="toshiki" creationdate="20200828T113239Z">
+        <seg>行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save into this folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113557Z" creationid="toshiki" creationdate="20200828T113557Z">
+        <seg>このフォルダに保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select CSV file to write to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113500Z" creationid="toshiki" creationdate="20200828T113404Z">
+        <seg>書込 CSV ファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select JSON file to read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113457Z" creationid="toshiki" creationdate="20200828T113259Z">
+        <seg>読込 JSON ファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select PDF file to read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113310Z" creationid="toshiki" creationdate="20200828T113310Z">
+        <seg>読込 PDF ファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select excel file to read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113627Z" creationid="toshiki" creationdate="20200828T113627Z">
+        <seg>読込 Excel ファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select excel file to write to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113501Z" creationid="toshiki" creationdate="20200828T113428Z">
+        <seg>書込 Excel ファイルを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selected Folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113333Z" creationid="toshiki" creationdate="20200828T113312Z">
+        <seg>選択したフォルダ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The input string to match against</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113249Z" creationid="toshiki" creationdate="20200828T113249Z">
+        <seg>マッチする入力文字列</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The regular expression to match</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T113251Z" creationid="toshiki" creationdate="20200828T113251Z">
+        <seg>マッチする正規表現</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

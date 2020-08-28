@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Alert message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103128Z" creationid="toshiki" creationdate="20200828T103128Z">
+        <seg>アラート・メッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Build form</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103131Z" creationid="toshiki" creationdate="20200828T103131Z">
+        <seg>フォームをビルド</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Create variables</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103141Z" creationid="toshiki" creationdate="20200828T103141Z">
+        <seg>変数を作成</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do interaction with user at the computer with predesigned formulas</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103301Z" creationid="toshiki" creationdate="20200828T103146Z">
+        <seg>コンピュータ上にあらかじめデザインしたフォームでユーザ対話を実施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invoke Formula</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103136Z" creationid="toshiki" creationdate="20200828T103136Z">
+        <seg>フォームを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103306Z" creationid="toshiki" creationdate="20200828T103306Z">
+        <seg>メッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Notification message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103309Z" creationid="toshiki" creationdate="20200828T103309Z">
+        <seg>通知メッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open designer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103143Z" creationid="toshiki" creationdate="20200828T103143Z">
+        <seg>デザイナを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Notification</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103311Z" creationid="toshiki" creationdate="20200828T103311Z">
+        <seg>通知を表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show a notification in the lower right corner of the screen for a limited amount of time</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103313Z" creationid="toshiki" creationdate="20200828T103313Z">
+        <seg>画面右下コーナーに通知を一定時間表示する</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
