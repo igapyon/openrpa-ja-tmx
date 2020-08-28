@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Auto launch</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105455Z" creationid="toshiki" creationdate="20200828T105455Z">
+        <seg>自動起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105427Z" creationid="toshiki" creationdate="20200828T105427Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105425Z" creationid="toshiki" creationdate="20200828T105425Z">
+        <seg>要素を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105437Z" creationid="toshiki" creationdate="20200828T105437Z">
+        <seg>強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Launch java bridge</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105459Z" creationid="toshiki" creationdate="20200828T105459Z">
+        <seg>Java ブリッジを起動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105445Z" creationid="toshiki" creationdate="20200828T105445Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105439Z" creationid="toshiki" creationdate="20200828T105439Z">
+        <seg>セレクタを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105451Z" creationid="toshiki" creationdate="20200828T105451Z">
+        <seg>セレクタ</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

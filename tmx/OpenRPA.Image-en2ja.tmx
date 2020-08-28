@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displayname</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104514Z" creationid="toshiki" creationdate="20200828T104514Z">
+        <seg>表示名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displayname inside the workflow designer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104600Z" creationid="toshiki" creationdate="20200828T104600Z">
+        <seg>ワークフロー・デザイナ内の表示名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104616Z" creationid="toshiki" creationdate="20200828T104616Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104606Z" creationid="toshiki" creationdate="20200828T104606Z">
+        <seg>要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104715Z" creationid="toshiki" creationdate="20200828T104715Z">
+        <seg>ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Color</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104609Z" creationid="toshiki" creationdate="20200828T104609Z">
+        <seg>色を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104614Z" creationid="toshiki" creationdate="20200828T104614Z">
+        <seg>要素を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Image</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104646Z" creationid="toshiki" creationdate="20200828T104646Z">
+        <seg>イメージを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104655Z" creationid="toshiki" creationdate="20200828T104655Z">
+        <seg>テキストを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104623Z" creationid="toshiki" creationdate="20200828T104623Z">
+        <seg>強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Limit to</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104705Z" creationid="toshiki" creationdate="20200828T104705Z">
+        <seg>制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Load From File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104725Z" creationid="toshiki" creationdate="20200828T104725Z">
+        <seg>ファイルからロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Process Limit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104631Z" creationid="toshiki" creationdate="20200828T104631Z">
+        <seg>処理制限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Image</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104643Z" creationid="toshiki" creationdate="20200828T104643Z">
+        <seg>イメージを選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Take Screenshot</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104734Z" creationid="toshiki" creationdate="20200828T104734Z">
+        <seg>スクリーンショットを撮る</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X Offset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104729Z" creationid="toshiki" creationdate="20200828T104729Z">
+        <seg>X オフセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Y Offset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T104731Z" creationid="toshiki" creationdate="20200828T104731Z">
+        <seg>Y オフセット</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
