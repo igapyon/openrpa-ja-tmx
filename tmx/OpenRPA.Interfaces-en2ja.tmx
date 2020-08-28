@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Accept changes and close selector window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105138Z" creationid="toshiki" creationdate="20200828T105138Z">
+        <seg>変更を受諾してセレクタウィンドウを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105117Z" creationid="toshiki" creationdate="20200828T105117Z">
+        <seg>キャンセル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel changes and close selector window</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105119Z" creationid="toshiki" creationdate="20200828T105119Z">
+        <seg>変更をキャンセルしてセレクタウィンドウを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105124Z" creationid="toshiki" creationdate="20200828T105124Z">
+        <seg>強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highligt element(s) effected by current selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105132Z" creationid="toshiki" creationdate="20200828T105132Z">
+        <seg>カレントセレクタの影響を受ける要素を強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105135Z" creationid="toshiki" creationdate="20200828T105135Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105140Z" creationid="toshiki" creationdate="20200828T105140Z">
+        <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105154Z" creationid="toshiki" creationdate="20200828T105154Z">
+        <seg>要素を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select element by clicking it</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105145Z" creationid="toshiki" creationdate="20200828T105145Z">
+        <seg>クリックして要素を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sync tree</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105149Z" creationid="toshiki" creationdate="20200828T105149Z">
+        <seg>ツリーを同期</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sync tree and go to current element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105152Z" creationid="toshiki" creationdate="20200828T105152Z">
+        <seg>ツリーを同期してカレント要素に移動</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

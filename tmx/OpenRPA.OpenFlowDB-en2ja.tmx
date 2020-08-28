@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Assign OpenFlow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T134045Z" creationid="toshiki" creationdate="20200828T134045Z">
+        <seg>OpenFlow を割当</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111438Z" creationid="toshiki" creationdate="20200828T111438Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111305Z" creationid="toshiki" creationdate="20200828T111305Z">
+        <seg>ファイルを削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete One</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111308Z" creationid="toshiki" creationdate="20200828T111308Z">
+        <seg>1件削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click to view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111304Z" creationid="toshiki" creationdate="20200828T111304Z">
+        <seg>ダブルクリックで表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111311Z" creationid="toshiki" creationdate="20200828T111311Z">
+        <seg>ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Credentials</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111353Z" creationid="toshiki" creationdate="20200828T111353Z">
+        <seg>資格情報を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111357Z" creationid="toshiki" creationdate="20200828T111357Z">
+        <seg>ファイルを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Grant Permission</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111415Z" creationid="toshiki" creationdate="20200828T111415Z">
+        <seg>許可を付与</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert One</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111419Z" creationid="toshiki" creationdate="20200828T111419Z">
+        <seg>1件挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert Or Update One</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111424Z" creationid="toshiki" creationdate="20200828T111424Z">
+        <seg>1件挿入または更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Local path</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111427Z" creationid="toshiki" creationdate="20200828T111427Z">
+        <seg>ローカルパス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111557Z" creationid="toshiki" creationdate="20200828T111557Z">
+        <seg>パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Query</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111513Z" creationid="toshiki" creationdate="20200828T111513Z">
+        <seg>照会</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111440Z" creationid="toshiki" creationdate="20200828T111440Z">
+        <seg>読込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Remove Permission</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111530Z" creationid="toshiki" creationdate="20200828T111530Z">
+        <seg>許可を除去</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111600Z" creationid="toshiki" creationdate="20200828T111600Z">
+        <seg>結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111533Z" creationid="toshiki" creationdate="20200828T111533Z">
+        <seg>ファイルを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set Credentials</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111604Z" creationid="toshiki" creationdate="20200828T111604Z">
+        <seg>資格情報を設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111442Z" creationid="toshiki" creationdate="20200828T111442Z">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update From DataTable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111615Z" creationid="toshiki" creationdate="20200828T111615Z">
+        <seg>DataTable から更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait until Completed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T111617Z" creationid="toshiki" creationdate="20200828T111617Z">
+        <seg>完了まで待機</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

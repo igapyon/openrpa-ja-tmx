@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Tab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110004Z" creationid="toshiki" creationdate="20200828T110004Z">
+        <seg>タブを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Compensate for old extension</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110102Z" creationid="toshiki" creationdate="20200828T110102Z">
+        <seg>古い拡張を補う</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Debug Console</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110105Z" creationid="toshiki" creationdate="20200828T110105Z">
+        <seg>デバッグ・コンソール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click to view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110002Z" creationid="toshiki" creationdate="20200828T110002Z">
+        <seg>ダブルクリックで表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Execute Script</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110010Z" creationid="toshiki" creationdate="20200828T110010Z">
+        <seg>スクリプトを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110015Z" creationid="toshiki" creationdate="20200828T110015Z">
+        <seg>要素を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get current</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110040Z" creationid="toshiki" creationdate="20200828T110040Z">
+        <seg>カレントを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110028Z" creationid="toshiki" creationdate="20200828T110028Z">
+        <seg>強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Loop action</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110031Z" creationid="toshiki" creationdate="20200828T110031Z">
+        <seg>アクションをループ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Editor</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110043Z" creationid="toshiki" creationdate="20200828T110043Z">
+        <seg>エディタを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110033Z" creationid="toshiki" creationdate="20200828T110033Z">
+        <seg>セレクタを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open URL</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110037Z" creationid="toshiki" creationdate="20200828T110037Z">
+        <seg>URL を開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait For Download</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110047Z" creationid="toshiki" creationdate="20200828T110047Z">
+        <seg>ダウンロードを待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait after set value</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110108Z" creationid="toshiki" creationdate="20200828T110108Z">
+        <seg>値の設定後に待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for page page to be ready / is not loading</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110054Z" creationid="toshiki" creationdate="20200828T110054Z">
+        <seg>ページが準備状態つまり非ロード中になるまで待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait for ready</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110050Z" creationid="toshiki" creationdate="20200828T110050Z">
+        <seg>準備状態を待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>register old portname</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110110Z" creationid="toshiki" creationdate="20200828T110110Z">
+        <seg>古いポート名を登録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>unique ids</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110115Z" creationid="toshiki" creationdate="20200828T110115Z">
+        <seg>ユニーク ids</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>wait for tab</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110118Z" creationid="toshiki" creationdate="20200828T110118Z">
+        <seg>タブを待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103934Z" creationid="toshiki" creationdate="20200828T103934Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Codec</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053649Z" creationid="toshiki" creationdate="20200823T053649Z">
+        <seg>コーデック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click to view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053622Z" creationid="toshiki" creationdate="20200823T053622Z">
+        <seg>ダブルクリックで表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enabled</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053652Z" creationid="toshiki" creationdate="20200823T053652Z">
+        <seg>有効</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Keep successful</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053656Z" creationid="toshiki" creationdate="20200823T053656Z">
+        <seg>成功を維持</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play Recording</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053624Z" creationid="toshiki" creationdate="20200823T053624Z">
+        <seg>レコーディングを再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play this video file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053626Z" creationid="toshiki" creationdate="20200823T053626Z">
+        <seg>このビデオファイルを再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Playback a video recording</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053625Z" creationid="toshiki" creationdate="20200823T053625Z">
+        <seg>ビデオレコーディングをプレイバック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recording quality</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053659Z" creationid="toshiki" creationdate="20200823T053659Z">
+        <seg>レコーディング品質</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save in folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053701Z" creationid="toshiki" creationdate="20200823T053701Z">
+        <seg>フォルダに保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save in this folder</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053646Z" creationid="toshiki" creationdate="20200823T053646Z">
+        <seg>このフォルダに保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save video filename</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053648Z" creationid="toshiki" creationdate="20200823T053648Z">
+        <seg>ビデオファイル名を保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start Recording</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053629Z" creationid="toshiki" creationdate="20200823T053629Z">
+        <seg>レコーディングを開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Start recording the screen to a file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053639Z" creationid="toshiki" creationdate="20200823T053639Z">
+        <seg>画面をファイルにレコーディング開始</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop Recording</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053647Z" creationid="toshiki" creationdate="20200823T053647Z">
+        <seg>レコーディングを停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop a running screen recording and save to file</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T053648Z" creationid="toshiki" creationdate="20200823T053648Z">
+        <seg>画面レコーディングを停止してファイルに保存</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

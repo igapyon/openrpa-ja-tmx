@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>File filter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T102444Z" creationid="toshiki" creationdate="20200828T102444Z">
+        <seg>ファイル・フィルタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T102446Z" creationid="toshiki" creationdate="20200828T102446Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Path</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T102447Z" creationid="toshiki" creationdate="20200828T102447Z">
+        <seg>パス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Sub Directories</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T102446Z" creationid="toshiki" creationdate="20200828T102446Z">
+        <seg>サブディレクトリ</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

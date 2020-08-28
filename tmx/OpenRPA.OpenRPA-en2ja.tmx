@@ -1,0 +1,1265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add variables</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034524Z" creationid="toshiki" creationdate="20200823T034524Z">
+        <seg>変数を追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animate Mouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034536Z" creationid="toshiki" creationdate="20200823T034536Z">
+        <seg>マウスをアニメーション化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Animate Move</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034605Z" creationid="toshiki" creationdate="20200823T034605Z">
+        <seg>移動をアニメーション化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Block execution until the complete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034609Z" creationid="toshiki" creationdate="20200823T034609Z">
+        <seg>完了するまで実行をブロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Blocking</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034608Z" creationid="toshiki" creationdate="20200823T034608Z">
+        <seg>ブロック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Browser addons</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034948Z" creationid="toshiki" creationdate="20200823T034948Z">
+        <seg>ブラウザ・アドオン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cancel key</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034953Z" creationid="toshiki" creationdate="20200823T034953Z">
+        <seg>キャンセル・キー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Change Type</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035248Z" creationid="toshiki" creationdate="20200823T035248Z">
+        <seg>タイプを変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Check Running</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034610Z" creationid="toshiki" creationdate="20200823T034610Z">
+        <seg>実行をチェック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click Delay</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034614Z" creationid="toshiki" creationdate="20200823T034614Z">
+        <seg>クリック遅延</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034618Z" creationid="toshiki" creationdate="20200823T034618Z">
+        <seg>要素をクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Click on an element found with GetElement</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034623Z" creationid="toshiki" creationdate="20200823T034623Z">
+        <seg>GetElement で見つかった要素をクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Application</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034626Z" creationid="toshiki" creationdate="20200823T034626Z">
+        <seg>アプリケーションをクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comment Out</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034628Z" creationid="toshiki" creationdate="20200823T034628Z">
+        <seg>コメントアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Comment out</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035014Z" creationid="toshiki" creationdate="20200823T035014Z">
+        <seg>コメントアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034959Z" creationid="toshiki" creationdate="20200823T034959Z">
+        <seg>コピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy Clipboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034632Z" creationid="toshiki" creationdate="20200823T034632Z">
+        <seg>クリックボードをコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy ID</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035006Z" creationid="toshiki" creationdate="20200823T035006Z">
+        <seg>ID をコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy Relative Filename</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035009Z" creationid="toshiki" creationdate="20200823T035009Z">
+        <seg>相対ファイル名をコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Copy content of Clipboard into a variable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034633Z" creationid="toshiki" creationdate="20200823T034633Z">
+        <seg>クリップボードのコンテンツを変数にコピー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Created at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035114Z" creationid="toshiki" creationdate="20200823T035114Z">
+        <seg>作成日時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Created by</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035115Z" creationid="toshiki" creationdate="20200823T035115Z">
+        <seg>作成者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data Table</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034635Z" creationid="toshiki" creationdate="20200823T034635Z">
+        <seg>データテーブル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Data View</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034644Z" creationid="toshiki" creationdate="20200823T034644Z">
+        <seg>データビュー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Debug</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035011Z" creationid="toshiki" creationdate="20200823T035011Z">
+        <seg>デバッグ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delay between each keystroke</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034616Z" creationid="toshiki" creationdate="20200823T034616Z">
+        <seg>各キーストローク間のディレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Delete</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035012Z" creationid="toshiki" creationdate="20200823T035012Z">
+        <seg>削除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Details</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035025Z" creationid="toshiki" creationdate="20200823T035025Z">
+        <seg>詳細</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Detector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034648Z" creationid="toshiki" creationdate="20200823T034648Z">
+        <seg>検知器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Detectors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035026Z" creationid="toshiki" creationdate="20200823T035026Z">
+        <seg>検知器</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disable local caching</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035028Z" creationid="toshiki" creationdate="20200823T035028Z">
+        <seg>ローカルキャッシュを無効化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Disconnected</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035214Z" creationid="toshiki" creationdate="20200823T035214Z">
+        <seg>非接続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displayname</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034651Z" creationid="toshiki" creationdate="20200823T034651Z">
+        <seg>表示名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Displayname inside the workflow designer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034652Z" creationid="toshiki" creationdate="20200823T034652Z">
+        <seg>ワークフロー・デザイナ内の表示名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Do a double click instead of single click</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034654Z" creationid="toshiki" creationdate="20200823T034654Z">
+        <seg>シングルクリックの代わりにダブルクリックする</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double Click</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034653Z" creationid="toshiki" creationdate="20200823T034653Z">
+        <seg>ダブルクリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Double-click to view</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034624Z" creationid="toshiki" creationdate="20200823T034624Z">
+        <seg>ダブルクリックで表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Download</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035040Z" creationid="toshiki" creationdate="20200823T035040Z">
+        <seg>ダウンロード</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034655Z" creationid="toshiki" creationdate="20200823T034655Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Duration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034655Z" creationid="toshiki" creationdate="20200823T034655Z">
+        <seg>期間</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035117Z" creationid="toshiki" creationdate="20200823T035117Z">
+        <seg>編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Edit XAML</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035119Z" creationid="toshiki" creationdate="20200823T035119Z">
+        <seg>XAML を編集</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034658Z" creationid="toshiki" creationdate="20200823T034658Z">
+        <seg>要素</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Enumerate through each row inside a DataTable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034713Z" creationid="toshiki" creationdate="20200823T034713Z">
+        <seg>DataTable 内の各行を列挙</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Exit Application</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035042Z" creationid="toshiki" creationdate="20200823T035042Z">
+        <seg>アプリケーションを終了</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Export</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035043Z" creationid="toshiki" creationdate="20200823T035043Z">
+        <seg>エクスポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Files</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035044Z" creationid="toshiki" creationdate="20200823T035044Z">
+        <seg>ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Focus Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034702Z" creationid="toshiki" creationdate="20200823T034702Z">
+        <seg>要素をフォーカス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Force</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034704Z" creationid="toshiki" creationdate="20200823T034704Z">
+        <seg>強行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Forcefully do the action</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034705Z" creationid="toshiki" creationdate="20200823T034705Z">
+        <seg>アクションを強制的に実施</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>General</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035047Z" creationid="toshiki" creationdate="20200823T035047Z">
+        <seg>一般</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Give element focus</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034703Z" creationid="toshiki" creationdate="20200823T034703Z">
+        <seg>要素にフォーカスを与える</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Height</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034716Z" creationid="toshiki" creationdate="20200823T034716Z">
+        <seg>高さ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034720Z" creationid="toshiki" creationdate="20200823T034720Z">
+        <seg>強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034722Z" creationid="toshiki" creationdate="20200823T034722Z">
+        <seg>要素を強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Highlight an element found with GetElement</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034728Z" creationid="toshiki" creationdate="20200823T034728Z">
+        <seg>GetElement で見つかった要素を強調</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ignore Errors</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034730Z" creationid="toshiki" creationdate="20200823T034730Z">
+        <seg>エラーを無視</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Image Result</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034733Z" creationid="toshiki" creationdate="20200823T034733Z">
+        <seg>イメージ結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Import</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035049Z" creationid="toshiki" creationdate="20200823T035049Z">
+        <seg>インポート</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert Clipboard</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034737Z" creationid="toshiki" creationdate="20200823T034737Z">
+        <seg>クリックボードを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Insert new content into the users Clipboard buffer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034739Z" creationid="toshiki" creationdate="20200823T034739Z">
+        <seg>ユーザのクリップボードバッファに新規コンテンツを挿入</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invoke</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035134Z" creationid="toshiki" creationdate="20200823T035134Z">
+        <seg>実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invoke OpenFlow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034740Z" creationid="toshiki" creationdate="20200823T034740Z">
+        <seg>OpenFlow を実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invoke OpenRPA</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034743Z" creationid="toshiki" creationdate="20200823T034743Z">
+        <seg>OpenRPA を実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invoke Remote OpenRPA</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034806Z" creationid="toshiki" creationdate="20200823T034806Z">
+        <seg>リモート OpenRPA を実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Invoke a local OpenRPA Workflow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034802Z" creationid="toshiki" creationdate="20200823T034802Z">
+        <seg>ローカル OpenRPA ワークフローを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Key Modifiers</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034823Z" creationid="toshiki" creationdate="20200823T034823Z">
+        <seg>Key Modifier</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last modified at</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035120Z" creationid="toshiki" creationdate="20200823T035120Z">
+        <seg>更新日時</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Last modified by</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035121Z" creationid="toshiki" creationdate="20200823T035121Z">
+        <seg>更新者</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Logging</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035030Z" creationid="toshiki" creationdate="20200823T035030Z">
+        <seg>ロギング</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Map Variables</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034828Z" creationid="toshiki" creationdate="20200823T034828Z">
+        <seg>変数をマップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Message</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034903Z" creationid="toshiki" creationdate="20200823T034903Z">
+        <seg>メッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Message to show</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034905Z" creationid="toshiki" creationdate="20200823T034905Z">
+        <seg>表示するメッセージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Minimize</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035103Z" creationid="toshiki" creationdate="20200823T035103Z">
+        <seg>最小化</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse Button</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034830Z" creationid="toshiki" creationdate="20200823T034830Z">
+        <seg>マウスボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mouse button to click with</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034831Z" creationid="toshiki" creationdate="20200823T034831Z">
+        <seg>クリックするマウスボタン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move Mouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034832Z" creationid="toshiki" creationdate="20200823T034832Z">
+        <seg>マウスを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035104Z" creationid="toshiki" creationdate="20200823T035104Z">
+        <seg>名前</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035054Z" creationid="toshiki" creationdate="20200823T035054Z">
+        <seg>新規</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Project</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035106Z" creationid="toshiki" creationdate="20200823T035106Z">
+        <seg>新規プロジェクト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New Workflow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035107Z" creationid="toshiki" creationdate="20200823T035107Z">
+        <seg>新規ワークフロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Ok</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034950Z" creationid="toshiki" creationdate="20200823T034950Z">
+        <seg>OK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035110Z" creationid="toshiki" creationdate="20200823T035110Z">
+        <seg>開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Application</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034845Z" creationid="toshiki" creationdate="20200823T034845Z">
+        <seg>アプリケーションを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Open Selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034848Z" creationid="toshiki" creationdate="20200823T034848Z">
+        <seg>セレクタを開く</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Output</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035031Z" creationid="toshiki" creationdate="20200823T035031Z">
+        <seg>出力</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Packages</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035128Z" creationid="toshiki" creationdate="20200823T035128Z">
+        <seg>パッケージ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Permissions</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035130Z" creationid="toshiki" creationdate="20200823T035130Z">
+        <seg>権限</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Play</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035139Z" creationid="toshiki" creationdate="20200823T035139Z">
+        <seg>再生</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Plugins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035140Z" creationid="toshiki" creationdate="20200823T035140Z">
+        <seg>プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Post Wait</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034849Z" creationid="toshiki" creationdate="20200823T034849Z">
+        <seg>事後待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Properties</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035034Z" creationid="toshiki" creationdate="20200823T035034Z">
+        <seg>プロパティ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Puts workflow in idle mode, waiting on selected detector to trigger</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034650Z" creationid="toshiki" creationdate="20200823T034650Z">
+        <seg>ワークフローを待機モードに設定し、選択した検知器がトリガされるのを待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035136Z" creationid="toshiki" creationdate="20200823T035136Z">
+        <seg>読込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Record</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035142Z" creationid="toshiki" creationdate="20200823T035142Z">
+        <seg>記録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Record directly into designer</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035102Z" creationid="toshiki" creationdate="20200823T035102Z">
+        <seg>デザイナに直接記録</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recorder plugins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035144Z" creationid="toshiki" creationdate="20200823T035144Z">
+        <seg>記録プラグイン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Recording Overlay</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035151Z" creationid="toshiki" creationdate="20200823T035151Z">
+        <seg>記録中オーバレイ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035056Z" creationid="toshiki" creationdate="20200823T035056Z">
+        <seg>再読込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Rename</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035154Z" creationid="toshiki" creationdate="20200823T035154Z">
+        <seg>名前の変更</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Result</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034851Z" creationid="toshiki" creationdate="20200823T034851Z">
+        <seg>結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Return the result as an image</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034735Z" creationid="toshiki" creationdate="20200823T034735Z">
+        <seg>結果をイメージとして返却</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run from here</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035017Z" creationid="toshiki" creationdate="20200823T035017Z">
+        <seg>ここから実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run plugins</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035157Z" creationid="toshiki" creationdate="20200823T035157Z">
+        <seg>プラグインを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run this activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035020Z" creationid="toshiki" creationdate="20200823T035020Z">
+        <seg>このアクティビティを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Runtime</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035200Z" creationid="toshiki" creationdate="20200823T035200Z">
+        <seg>ランタイム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035202Z" creationid="toshiki" creationdate="20200823T035202Z">
+        <seg>保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Search</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035155Z" creationid="toshiki" creationdate="20200823T035155Z">
+        <seg>検索</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Select Element</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034856Z" creationid="toshiki" creationdate="20200823T034856Z">
+        <seg>要素を選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selector</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034853Z" creationid="toshiki" creationdate="20200823T034853Z">
+        <seg>セレクタ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Selector Verbose</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035205Z" creationid="toshiki" creationdate="20200823T035205Z">
+        <seg>セレクタ Verbose</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Send Ctrl+C</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034858Z" creationid="toshiki" creationdate="20200823T034858Z">
+        <seg>Ctrl+C を送信</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Serializable</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035125Z" creationid="toshiki" creationdate="20200823T035125Z">
+        <seg>シリアライズ可能</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set Click PostWait</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034957Z" creationid="toshiki" creationdate="20200823T034957Z">
+        <seg>クリックを事後待機に設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035207Z" creationid="toshiki" creationdate="20200823T035207Z">
+        <seg>設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Settings File</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035208Z" creationid="toshiki" creationdate="20200823T035208Z">
+        <seg>設定ファイル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Show Balloon Tip</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034910Z" creationid="toshiki" creationdate="20200823T034910Z">
+        <seg>バルーンチップを表示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Signout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035210Z" creationid="toshiki" creationdate="20200823T035210Z">
+        <seg>サインアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Slow Motion</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035212Z" creationid="toshiki" creationdate="20200823T035212Z">
+        <seg>スローモーション</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Snippets</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035035Z" creationid="toshiki" creationdate="20200823T035035Z">
+        <seg>スニペット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>State</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035126Z" creationid="toshiki" creationdate="20200823T035126Z">
+        <seg>状態</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Stop</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035216Z" creationid="toshiki" creationdate="20200823T035216Z">
+        <seg>停止</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>String Result</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034913Z" creationid="toshiki" creationdate="20200823T034913Z">
+        <seg>文字列結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Swap Animate</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035251Z" creationid="toshiki" creationdate="20200823T035251Z">
+        <seg>アニメーション化の交換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Swap SendKeys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035253Z" creationid="toshiki" creationdate="20200823T035253Z">
+        <seg>SendKey の交換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Swap Virtual Clicking</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035254Z" creationid="toshiki" creationdate="20200823T035254Z">
+        <seg>仮想クリックの交換</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Target</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034917Z" creationid="toshiki" creationdate="20200823T034917Z">
+        <seg>ターゲット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034922Z" creationid="toshiki" creationdate="20200823T034922Z">
+        <seg>テキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>The target user or role</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034920Z" creationid="toshiki" creationdate="20200823T034920Z">
+        <seg>ターゲットのユーザまたはロール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Timeout</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034923Z" creationid="toshiki" creationdate="20200823T034923Z">
+        <seg>タイムアウト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Title</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034907Z" creationid="toshiki" creationdate="20200823T034907Z">
+        <seg>タイトル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Toolbox</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035036Z" creationid="toshiki" creationdate="20200823T035036Z">
+        <seg>ツールボックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Tools</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035219Z" creationid="toshiki" creationdate="20200823T035219Z">
+        <seg>ツール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035256Z" creationid="toshiki" creationdate="20200823T035256Z">
+        <seg>タイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Type Text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034926Z" creationid="toshiki" creationdate="20200823T034926Z">
+        <seg>テキストをタイプ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>UI Language</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035258Z" creationid="toshiki" creationdate="20200823T035258Z">
+        <seg>UI 言語</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Uncomment</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035022Z" creationid="toshiki" creationdate="20200823T035022Z">
+        <seg>コメント解除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Update</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035137Z" creationid="toshiki" creationdate="20200823T035137Z">
+        <seg>更新</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use Animate Mouse</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034946Z" creationid="toshiki" creationdate="20200823T034946Z">
+        <seg>アニメーション化マウスを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use SendKeys</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035259Z" creationid="toshiki" creationdate="20200823T035259Z">
+        <seg>SendKey を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use Virtual Clicks</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035302Z" creationid="toshiki" creationdate="20200823T035302Z">
+        <seg>仮想クリックを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use this workflow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034940Z" creationid="toshiki" creationdate="20200823T034940Z">
+        <seg>このワークフローを使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Value</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035303Z" creationid="toshiki" creationdate="20200823T035303Z">
+        <seg>値</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Version</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035308Z" creationid="toshiki" creationdate="20200823T035308Z">
+        <seg>バージョン</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Virtual Click</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034930Z" creationid="toshiki" creationdate="20200823T034930Z">
+        <seg>仮想クリック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visibly move the mouse, instead of instantly moving it to the destination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034603Z" creationid="toshiki" creationdate="20200823T034603Z">
+        <seg>目的地にすぐに移動する代わりに、ビジュアルにマウスを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visibly move the window, instead of instantly moving it to the destination</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034606Z" creationid="toshiki" creationdate="20200823T034606Z">
+        <seg>目的地にすぐに移動する代わりに、ビジュアルにウィンドウを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Visual Tracking</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035309Z" creationid="toshiki" creationdate="20200823T035309Z">
+        <seg>ビジュアル追跡</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Wait until Completed</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034933Z" creationid="toshiki" creationdate="20200823T034933Z">
+        <seg>完了まで待機</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Warning</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035311Z" creationid="toshiki" creationdate="20200823T035311Z">
+        <seg>警告</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Width</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034935Z" creationid="toshiki" creationdate="20200823T034935Z">
+        <seg>幅</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will run for the duration</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034656Z" creationid="toshiki" creationdate="20200823T034656Z">
+        <seg>この期間だけ実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Will wait for this detector to trigger, then the workflow will continue</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034649Z" creationid="toshiki" creationdate="20200823T034649Z">
+        <seg>検知器はこのトリガを待機し、トリガされるとワークフローを継続</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Workflow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034938Z" creationid="toshiki" creationdate="20200823T034938Z">
+        <seg>ワークフロー</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Workflow Instances</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T035039Z" creationid="toshiki" creationdate="20200823T035039Z">
+        <seg>ワークフロー・インスタンス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>X Offset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034836Z" creationid="toshiki" creationdate="20200823T034836Z">
+        <seg>X オフセット</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Y Offset</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200823T034843Z" creationid="toshiki" creationdate="20200823T034843Z">
+        <seg>Y オフセット</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
