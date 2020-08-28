@@ -156,6 +156,14 @@
         <seg>タブを待機</seg>
       </tuv>
     </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T103934Z" creationid="toshiki" creationdate="20200828T103934Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
 <!-- Alternative translations -->
   </body>
 </tmx>

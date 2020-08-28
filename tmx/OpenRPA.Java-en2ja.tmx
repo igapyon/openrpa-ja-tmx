@@ -62,6 +62,14 @@
     </tu>
     <tu>
       <tuv lang="en-US">
+        <seg>Select</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T105140Z" creationid="toshiki" creationdate="20200828T105140Z">
+        <seg>選択</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
         <seg>Selector</seg>
       </tuv>
       <tuv lang="ja" changeid="toshiki" changedate="20200828T105451Z" creationid="toshiki" creationdate="20200828T105451Z">
