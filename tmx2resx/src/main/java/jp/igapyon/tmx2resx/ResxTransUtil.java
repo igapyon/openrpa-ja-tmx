@@ -13,7 +13,7 @@
  * See the License for the specific language governing permissions and
  * limitations under the License.
  */
-package jp.igapyon.tmx2resx.openrpa;
+package jp.igapyon.tmx2resx;
 
 import java.io.File;
 import java.io.IOException;
@@ -30,9 +30,14 @@ import org.w3c.dom.Element;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import jp.igapyon.tmx2resx.XmlSimpleUtil;
-
-public class TransResxUtil {
+public class ResxTransUtil {
+    /**
+     * RESX ファイルを翻訳します。
+     * @param tmxMap
+     * @param fileInput
+     * @param fileOutput
+     * @throws IOException
+     */
     public static void translate(Map<String, String> tmxMap, File fileInput, File fileOutput) throws IOException {
         String resxString = FileUtils.readFileToString(fileInput, "UTF-8");
         resxString = resxString.replace("\uFEFF", ""); // BOM

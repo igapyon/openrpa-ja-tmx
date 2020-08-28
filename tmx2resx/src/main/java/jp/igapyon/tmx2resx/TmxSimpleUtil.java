@@ -31,6 +31,14 @@ import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
 public class TmxSimpleUtil {
+    /**
+     * TMXファイルの読み込み。
+     * @param tmx 入力TMXファイル。
+     * @param langSrc 翻訳元言語。
+     * @param langDst 翻訳先言語。
+     * @return Map化された翻訳ペア。
+     * @throws IOException 入出力例外が発生した場合。
+     */
     public static Map<String, String> file2map(final File tmx, final String langSrc, final String langDst)
             throws IOException {
         final Map<String, String> result = new LinkedHashMap<>();

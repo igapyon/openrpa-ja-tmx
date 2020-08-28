@@ -20,6 +20,7 @@ import java.io.IOException;
 import java.util.Map;
 
 import jp.igapyon.tmx2resx.TmxSimpleUtil;
+import jp.igapyon.tmx2resx.ResxTransUtil;
 
 public class Tmx2ResxOpenRPA {
     public static void main(String[] args) throws IOException {
@@ -42,7 +43,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // AviRecorder
@@ -57,7 +58,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.AviRecorder/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Elis.Rossum
@@ -72,7 +73,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Elis.Rossum/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // FileWatcher
@@ -87,7 +88,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.FileWatcher/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Forms
@@ -102,7 +103,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // IE
@@ -117,7 +118,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.IE/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Image
@@ -132,7 +133,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Image/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Interfaces
@@ -147,7 +148,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Interfaces/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Java
@@ -162,7 +163,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Java/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // NM
@@ -177,7 +178,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.NM/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Office
@@ -192,7 +193,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Office/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // OpenFlowDB
@@ -207,7 +208,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.OpenFlowDB/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // RDServicePlugin
@@ -222,7 +223,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.RDServicePlugin/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Script
@@ -237,7 +238,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Script/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Updater
@@ -252,7 +253,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Updater/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Utilities
@@ -267,7 +268,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Utilities/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Windows
@@ -282,7 +283,7 @@ public class Tmx2ResxOpenRPA {
 
             File fileOutput = new File(fileRoot, "OpenRPA.Windows/Resources/strings.ja.resx");
 
-            TransResxUtil.translate(tmxMap, fileInput, fileOutput);
+            ResxTransUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         System.err.println("end.");

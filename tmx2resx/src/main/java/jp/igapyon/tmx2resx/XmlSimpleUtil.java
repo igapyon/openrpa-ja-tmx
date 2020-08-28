@@ -36,6 +36,12 @@ import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
 public class XmlSimpleUtil {
+    /**
+     * XML 文字列を XML Document 化します。
+     * @param xml 入力XML文字列
+     * @return XML Document
+     * @throws IOException 入出力例外が発生した場合。
+     */
     public static Document string2dom(final String xml) throws IOException {
         try {
             final DocumentBuilderFactory documentBuilderFactory = DocumentBuilderFactory.newInstance();
@@ -49,7 +55,7 @@ public class XmlSimpleUtil {
     }
 
     /**
-     * Convert document to xml.
+     * Convert document to xml String.
      * 
      * @param element input root element.
      * @return XML string.
