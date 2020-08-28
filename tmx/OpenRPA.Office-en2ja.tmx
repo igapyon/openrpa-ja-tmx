@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.3.0_0_2fd7a9ecc" segtype="sentence" srclang="en-US"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="en-US">
+        <seg>Add Paragraph</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110504Z" creationid="toshiki" creationdate="20200828T110504Z">
+        <seg>パラグラフを追加</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Cells</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110521Z" creationid="toshiki" creationdate="20200828T110521Z">
+        <seg>セル</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear Formats</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110710Z" creationid="toshiki" creationdate="20200828T110710Z">
+        <seg>書式をクリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Clear Range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110519Z" creationid="toshiki" creationdate="20200828T110519Z">
+        <seg>範囲をクリア</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Document</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110529Z" creationid="toshiki" creationdate="20200828T110529Z">
+        <seg>ドキュメントをクローズ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Close Workbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110541Z" creationid="toshiki" creationdate="20200828T110541Z">
+        <seg>ワークブックを閉じる</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Count</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110605Z" creationid="toshiki" creationdate="20200828T110605Z">
+        <seg>件数</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Drop activity</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110552Z" creationid="toshiki" creationdate="20200828T110552Z">
+        <seg>アクティビティをドロップ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filename</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110506Z" creationid="toshiki" creationdate="20200828T110506Z">
+        <seg>ファイル名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Filter</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110559Z" creationid="toshiki" creationdate="20200828T110559Z">
+        <seg>フィルター</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Mails</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110558Z" creationid="toshiki" creationdate="20200828T110558Z">
+        <seg>メールを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Paragraph</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110604Z" creationid="toshiki" creationdate="20200828T110604Z">
+        <seg>パラグラフを取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Get Selected Range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110622Z" creationid="toshiki" creationdate="20200828T110622Z">
+        <seg>選択範囲を取得</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Index</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110511Z" creationid="toshiki" creationdate="20200828T110511Z">
+        <seg>インデックス</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Macro Name</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110724Z" creationid="toshiki" creationdate="20200828T110724Z">
+        <seg>マクロ名</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Mail</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110629Z" creationid="toshiki" creationdate="20200828T110629Z">
+        <seg>メール</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Max Results</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110615Z" creationid="toshiki" creationdate="20200828T110615Z">
+        <seg>最大結果</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Move MailItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110652Z" creationid="toshiki" creationdate="20200828T110626Z">
+        <seg>メールアイテムを移動</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>New MailItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110633Z" creationid="toshiki" creationdate="20200828T110633Z">
+        <seg>新規メールアイテム</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read Cell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110705Z" creationid="toshiki" creationdate="20200828T110705Z">
+        <seg>セルを読込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Read Range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110708Z" creationid="toshiki" creationdate="20200828T110708Z">
+        <seg>範囲を読込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Reload</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110555Z" creationid="toshiki" creationdate="20200828T110555Z">
+        <seg>再読込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run Excel Macro</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110721Z" creationid="toshiki" creationdate="20200828T110721Z">
+        <seg>Excel マクロを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Run Slideshow</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110729Z" creationid="toshiki" creationdate="20200828T110729Z">
+        <seg>スライドショーを実行</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save Changes</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110535Z" creationid="toshiki" creationdate="20200828T110535Z">
+        <seg>変更を保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Save MailItem</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110737Z" creationid="toshiki" creationdate="20200828T110737Z">
+        <seg>メールアイテムを保存</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Set Paragraph</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110740Z" creationid="toshiki" creationdate="20200828T110740Z">
+        <seg>パラグラフを設定</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Text</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110514Z" creationid="toshiki" creationdate="20200828T110514Z">
+        <seg>テキスト</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Use Header Row</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110717Z" creationid="toshiki" creationdate="20200828T110717Z">
+        <seg>ヘッダー行を使用</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Workbook</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110548Z" creationid="toshiki" creationdate="20200828T110548Z">
+        <seg>ワークブック</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Write Cell</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110749Z" creationid="toshiki" creationdate="20200828T110749Z">
+        <seg>セルを書込</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="en-US">
+        <seg>Write Range</seg>
+      </tuv>
+      <tuv lang="ja" changeid="toshiki" changedate="20200828T110755Z" creationid="toshiki" creationdate="20200828T110755Z">
+        <seg>範囲を書込</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
