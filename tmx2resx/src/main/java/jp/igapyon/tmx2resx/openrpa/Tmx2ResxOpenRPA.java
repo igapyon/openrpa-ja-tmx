@@ -106,180 +106,180 @@ public class Tmx2ResxOpenRPA {
 
         // IE
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.IE-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.IE/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.IE/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Image
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.Image-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.Image/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.Image/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Interfaces
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.Interfaces-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.Interfaces/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.Interfaces/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Java
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.Java-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.Java/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.Java/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // NM
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.NM-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.NM/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.NM/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Office
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.Office-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.Office/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.Office/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
-        // OpenFlow
+        // OpenFlowDB
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.OpenFlowDB-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.OpenFlowDB/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.OpenFlowDB/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // RDServicePlugin
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.RDServicePlugin-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.RDServicePlugin/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.RDServicePlugin/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Script
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.Script-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.Script/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.Script/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Updater
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.Updater-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.Updater/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.Updater/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Utilities
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.Utilities-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.Utilities/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.Utilities/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
 
         // Windows
         {
-            File fileTmx = new File("../tmx/OpenRPA.Forms-en2ja.tmx");
+            File fileTmx = new File("../tmx/OpenRPA.Windows-en2ja.tmx");
             final Map<String, String> tmxMap = TmxSimpleUtil.file2map(fileTmx, "en-US", "ja");
 
-            File fileInput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.resx");
+            File fileInput = new File(fileRoot, "OpenRPA.Windows/Resources/strings.resx");
             if (!fileInput.exists()) {
                 throw new IOException("resx filenot found: " + fileInput.getAbsolutePath());
             }
 
-            File fileOutput = new File(fileRoot, "OpenRPA.Forms/Resources/strings.ja.resx");
+            File fileOutput = new File(fileRoot, "OpenRPA.Windows/Resources/strings.ja.resx");
 
             TransResxUtil.translate(tmxMap, fileInput, fileOutput);
         }
